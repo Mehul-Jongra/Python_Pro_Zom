@@ -1,0 +1,1001 @@
+Order_ID,Restaurant_ID,Order_Date,Expected_Delivery_Time,Actual_Delivery_Time,Total_Amount,Order_Status,Payment_Method,Dish_Name,Customer_ID
+O0001,R079,2023-02-27 08:00:00,26,29,731.48,Cancelled,Credit Card,Margherita Pizza,C187
+O0002,R010,2023-01-09 18:00:00,35,40,461.67,Cancelled,UPI,Chicken Wings,C036
+O0003,R055,2023-08-08 12:00:00,29,28,557.85,Cancelled,Cash,Egg Fried Rice,C179
+O0004,R072,2023-02-26 22:00:00,35,42,209.42,Cancelled,UPI,Paneer Tikka,C186
+O0005,R097,2023-06-26 12:00:00,33,23,411.99,Cancelled,Cash,Egg Fried Rice,C176
+O0006,R051,2023-05-20 12:00:00,40,24,789.65,Cancelled,Net Banking,Veg Manchurian,C104
+O0007,R006,2023-07-27 14:00:00,40,35,983.98,Cancelled,Cash,Dal Makhani,C029
+O0008,R024,2023-08-14 12:00:00,44,42,543.86,Cancelled,Credit Card,Mutton Rogan Josh,C032
+O0009,R032,2023-03-13 00:00:00,35,25,526.1,Cancelled,Cash,Veg Thali,C130
+O0010,R063,2023-05-30 12:00:00,33,33,273.02,Cancelled,Net Banking,Paneer Butter Masala,C137
+O0011,R029,2023-08-30 16:00:00,45,32,736.05,Cancelled,Credit Card,Egg Fried Rice,C059
+O0012,R017,2023-08-22 08:00:00,27,30,905.24,Cancelled,Credit Card,Mutton Rogan Josh,C182
+O0013,R036,2023-05-19 04:00:00,39,29,204.71,Cancelled,UPI,Chicken Biryani,C064
+O0014,R046,2023-04-01 02:00:00,30,26,700.63,Cancelled,UPI,Margherita Pizza,C153
+O0015,R041,2023-01-08 04:00:00,28,54,327.81,Cancelled,Cash,Veg Manchurian,C007
+O0016,R056,2023-07-20 12:00:00,41,30,265.13,Cancelled,Cash,Chicken Biryani,C030
+O0017,R014,2023-02-15 18:00:00,33,31,715.43,Cancelled,UPI,Paneer Tikka,C171
+O0018,R072,2023-05-13 12:00:00,42,46,393.15,Cancelled,UPI,Garlic Naan,C197
+O0019,R037,2023-02-28 10:00:00,37,27,218.92,Cancelled,UPI,Egg Fried Rice,C022
+O0020,R079,2023-05-31 12:00:00,44,50,770.18,Cancelled,Cash,Dal Makhani,C011
+O0021,R070,2023-07-12 20:00:00,39,46,891.76,Cancelled,Cash,Tandoori Chicken,C198
+O0022,R026,2023-01-19 06:00:00,38,33,646.74,Cancelled,UPI,Egg Fried Rice,C168
+O0023,R092,2023-05-09 00:00:00,30,51,802.24,Cancelled,UPI,Masala Dosa,C157
+O0024,R038,2023-10-01 20:00:00,44,32,737.29,Cancelled,Credit Card,Chicken Wings,C084
+O0025,R100,2023-01-30 14:00:00,38,30,607.2,Cancelled,UPI,Chicken Biryani,C049
+O0026,R057,2023-08-08 20:00:00,29,40,537.46,Cancelled,Net Banking,Paneer Tikka,C094
+O0027,R066,2023-07-20 18:00:00,28,28,622.02,Cancelled,Cash,Chicken Shawarma,C030
+O0028,R078,2023-05-19 06:00:00,43,37,386.16,Cancelled,UPI,Mutton Rogan Josh,C081
+O0029,R060,2023-04-25 04:00:00,28,33,154.41,Cancelled,Net Banking,Paneer Tikka,C033
+O0030,R069,2023-03-21 12:00:00,30,26,695.58,Cancelled,Net Banking,Butter Chicken,C082
+O0031,R082,2023-06-22 22:00:00,40,41,915.53,Cancelled,Net Banking,Veg Manchurian,C058
+O0032,R034,2023-06-05 10:00:00,34,37,449.17,Cancelled,UPI,Fish Curry,C151
+O0033,R035,2023-01-14 08:00:00,28,38,521.64,Cancelled,Net Banking,Chole Bhature,C013
+O0034,R030,2023-06-13 18:00:00,38,38,746.28,Cancelled,Net Banking,Fish Curry,C176
+O0035,R003,2023-07-31 14:00:00,33,45,177.85,Cancelled,Cash,Chole Bhature,C135
+O0036,R016,2023-02-04 16:00:00,33,42,361.36,Cancelled,UPI,Masala Dosa,C140
+O0037,R079,2023-04-02 16:00:00,28,37,804.87,Cancelled,Credit Card,Paneer Tikka,C126
+O0038,R092,2023-06-23 04:00:00,45,27,704.14,Cancelled,Net Banking,Margherita Pizza,C026
+O0039,R013,2023-06-17 08:00:00,36,44,189.66,Cancelled,Net Banking,Mutton Rogan Josh,C149
+O0040,R023,2023-07-08 00:00:00,41,35,469.11,Cancelled,Cash,Paneer Tikka,C034
+O0041,R094,2023-08-09 02:00:00,42,49,657.4,Cancelled,Cash,Chicken Shawarma,C170
+O0042,R054,2023-05-15 12:00:00,27,27,249.5,Cancelled,Credit Card,Masala Dosa,C176
+O0043,R032,2023-06-11 08:00:00,25,51,949.43,Cancelled,Credit Card,Fish Curry,C151
+O0044,R028,2023-04-01 12:00:00,26,28,297.75,Cancelled,UPI,Tandoori Chicken,C084
+O0045,R037,2023-03-03 18:00:00,44,26,664.98,Cancelled,UPI,Chole Bhature,C123
+O0046,R095,2023-03-20 10:00:00,25,34,206.96,Cancelled,Net Banking,Chicken Shawarma,C040
+O0047,R085,2023-07-04 14:00:00,29,45,363.75,Cancelled,UPI,Butter Chicken,C130
+O0048,R001,2023-05-05 08:00:00,28,43,273.73,Cancelled,Credit Card,Samosa Chaat,C046
+O0049,R095,2023-02-24 10:00:00,38,33,797.74,Cancelled,Net Banking,Mutton Rogan Josh,C125
+O0050,R069,2023-04-14 04:00:00,37,25,982.54,Cancelled,UPI,Paneer Tikka,C165
+O0051,R066,2023-07-27 18:00:00,40,53,908.14,Cancelled,Net Banking,Veg Thali,C089
+O0052,R055,2023-02-19 00:00:00,25,45,334.48,Cancelled,UPI,Tandoori Chicken,C035
+O0053,R007,2023-06-05 22:00:00,35,21,694.57,Cancelled,Credit Card,Chicken Biryani,C012
+O0054,R016,2023-01-24 10:00:00,45,38,921.36,Cancelled,UPI,Masala Dosa,C177
+O0055,R050,2023-01-24 08:00:00,29,39,709.43,Cancelled,UPI,Chicken Wings,C044
+O0056,R083,2023-06-13 04:00:00,27,36,202.25,Cancelled,UPI,Egg Fried Rice,C178
+O0057,R035,2023-05-15 04:00:00,37,43,531.71,Cancelled,Credit Card,Margherita Pizza,C072
+O0058,R016,2023-07-13 04:00:00,45,38,432.12,Cancelled,Cash,Fish Curry,C089
+O0059,R095,2023-05-20 22:00:00,43,43,699.09,Cancelled,Cash,Pasta Alfredo,C087
+O0060,R073,2023-07-09 18:00:00,32,35,202.46,Cancelled,Net Banking,Mutton Rogan Josh,C063
+O0061,R046,2023-02-01 10:00:00,26,40,710.15,Cancelled,Cash,Hakka Noodles,C069
+O0062,R030,2023-04-01 14:00:00,31,41,190.75,Cancelled,Cash,Veg Thali,C150
+O0063,R087,2023-06-14 14:00:00,38,41,197.75,Cancelled,Cash,Dal Makhani,C106
+O0064,R092,2023-03-20 08:00:00,25,41,344.11,Cancelled,Cash,Chicken Wings,C074
+O0065,R091,2023-10-06 00:00:00,26,40,883.87,Cancelled,Credit Card,Garlic Naan,C166
+O0066,R070,2023-02-07 20:00:00,44,42,802.74,Cancelled,Cash,Butter Chicken,C082
+O0067,R085,2023-04-12 06:00:00,37,45,374.52,Cancelled,Net Banking,Garlic Naan,C160
+O0068,R037,2023-02-18 02:00:00,29,35,158.22,Cancelled,Credit Card,Hakka Noodles,C005
+O0069,R029,2023-05-03 16:00:00,42,28,372.06,Cancelled,Net Banking,Veg Thali,C187
+O0070,R095,2023-10-05 02:00:00,34,44,943.17,Cancelled,Cash,Egg Fried Rice,C169
+O0071,R031,2023-02-02 02:00:00,38,42,622.31,Completed,Cash,Chole Bhature,C122
+O0072,R009,2023-02-17 06:00:00,37,36,218.03,Completed,Net Banking,Egg Fried Rice,C076
+O0073,R067,2023-08-13 16:00:00,42,29,766.31,Completed,Credit Card,Egg Fried Rice,C039
+O0074,R040,2023-01-20 08:00:00,26,41,684.58,Completed,Credit Card,Garlic Naan,C175
+O0075,R087,2023-10-08 22:00:00,39,40,870.37,Completed,Credit Card,Paneer Tikka,C067
+O0076,R042,2023-08-16 04:00:00,42,34,983.01,Completed,UPI,Veg Manchurian,C050
+O0077,R030,2023-02-16 16:00:00,29,30,869.88,Completed,Cash,Butter Chicken,C005
+O0078,R048,2023-07-20 04:00:00,42,27,726.77,Completed,UPI,Chicken Biryani,C126
+O0079,R081,2023-07-10 16:00:00,29,23,895.77,Completed,Credit Card,Chicken Wings,C197
+O0080,R062,2023-03-09 18:00:00,45,27,677.61,Completed,Credit Card,Veg Thali,C079
+O0081,R037,2023-01-03 08:00:00,31,43,329.69,Completed,Credit Card,Margherita Pizza,C185
+O0082,R075,2023-01-12 06:00:00,43,41,587.57,Completed,Cash,Fish Curry,C193
+O0083,R022,2023-05-19 00:00:00,30,49,404.08,Completed,Net Banking,Chicken Shawarma,C122
+O0084,R018,2023-07-10 12:00:00,27,34,360.75,Completed,Net Banking,Egg Fried Rice,C003
+O0085,R002,2023-08-27 20:00:00,43,27,307.52,Completed,Cash,Chicken Shawarma,C026
+O0086,R071,2023-09-15 18:00:00,40,29,207.26,Completed,Cash,Veg Manchurian,C095
+O0087,R065,2023-07-25 08:00:00,34,36,392.48,Completed,Net Banking,Butter Chicken,C187
+O0088,R042,2023-06-17 08:00:00,33,47,895.19,Completed,Credit Card,Chicken Shawarma,C064
+O0089,R047,2023-09-01 18:00:00,33,32,582.26,Completed,UPI,Chicken Biryani,C156
+O0090,R075,2023-08-24 14:00:00,31,38,600.4,Completed,Cash,Tandoori Chicken,C166
+O0091,R082,2023-02-06 12:00:00,37,35,244.24,Completed,Cash,Fish Curry,C144
+O0092,R004,2023-06-11 10:00:00,25,34,963.7,Completed,Net Banking,Chole Bhature,C062
+O0093,R017,2023-07-10 22:00:00,45,29,252.43,Completed,Cash,Veg Thali,C100
+O0094,R051,2023-04-29 12:00:00,26,27,970.4,Completed,Credit Card,Mutton Rogan Josh,C050
+O0095,R020,2023-09-24 04:00:00,41,45,308.4,Completed,Credit Card,Veg Thali,C168
+O0096,R023,2023-04-28 02:00:00,27,34,191.85,Completed,Credit Card,Tandoori Chicken,C200
+O0097,R066,2023-02-03 06:00:00,25,27,949.74,Completed,Credit Card,Veg Thali,C099
+O0098,R010,2023-08-23 00:00:00,45,43,176.38,Completed,Cash,Hakka Noodles,C025
+O0099,R018,2023-01-02 18:00:00,34,37,381.15,Completed,UPI,Masala Dosa,C046
+O0100,R098,2023-03-24 10:00:00,29,44,710.45,Completed,Credit Card,Veg Manchurian,C066
+O0101,R027,2023-03-19 08:00:00,29,45,636.8,Completed,Cash,Paneer Tikka,C026
+O0102,R100,2023-06-19 20:00:00,41,32,772.66,Completed,Cash,Veg Manchurian,C073
+O0103,R064,2023-04-17 06:00:00,29,54,418.06,Completed,UPI,Veg Manchurian,C044
+O0104,R073,2023-04-04 16:00:00,28,28,789.55,Completed,Cash,Pasta Alfredo,C144
+O0105,R099,2023-03-18 16:00:00,35,40,197.0,Completed,UPI,Garlic Naan,C035
+O0106,R090,2023-01-04 00:00:00,25,36,178.17,Completed,UPI,Veg Manchurian,C148
+O0107,R028,2023-06-19 04:00:00,35,47,348.43,Completed,UPI,Chicken Shawarma,C189
+O0108,R031,2023-05-02 02:00:00,29,34,853.23,Completed,Net Banking,Fish Curry,C117
+O0109,R094,2023-06-23 16:00:00,35,50,245.25,Completed,Net Banking,Chole Bhature,C106
+O0110,R017,2023-04-27 08:00:00,43,38,774.81,Completed,UPI,Tandoori Chicken,C099
+O0111,R030,2023-02-01 06:00:00,27,43,951.12,Completed,Credit Card,Butter Chicken,C107
+O0112,R098,2023-01-27 10:00:00,27,38,975.31,Completed,Cash,Veg Manchurian,C060
+O0113,R050,2023-04-15 00:00:00,36,23,227.62,Completed,Net Banking,Hakka Noodles,C144
+O0114,R046,2023-07-15 18:00:00,31,40,367.48,Completed,Cash,Butter Chicken,C021
+O0115,R078,2023-05-25 02:00:00,33,41,198.97,Completed,Cash,Masala Dosa,C187
+O0116,R076,2023-03-19 04:00:00,39,49,797.73,Completed,Cash,Chicken Shawarma,C024
+O0117,R017,2023-09-10 04:00:00,35,31,509.83,Completed,Net Banking,Chicken Shawarma,C110
+O0118,R081,2023-05-06 10:00:00,40,24,375.11,Completed,Cash,Samosa Chaat,C082
+O0119,R064,2023-05-11 02:00:00,40,50,916.43,Completed,UPI,Fish Curry,C079
+O0120,R014,2023-09-16 18:00:00,42,30,652.34,Completed,Credit Card,Hakka Noodles,C128
+O0121,R079,2023-02-19 14:00:00,41,40,979.61,Completed,Net Banking,Tandoori Chicken,C107
+O0122,R004,2023-03-21 00:00:00,27,36,728.77,Completed,UPI,Fish Curry,C193
+O0123,R068,2023-04-09 06:00:00,27,23,244.11,Completed,Cash,Chicken Shawarma,C106
+O0124,R077,2023-03-10 00:00:00,35,37,264.75,Completed,Credit Card,Hakka Noodles,C089
+O0125,R046,2023-09-11 08:00:00,39,38,250.28,Completed,UPI,Masala Dosa,C104
+O0126,R063,2023-09-22 22:00:00,37,37,457.54,Completed,UPI,Chole Bhature,C121
+O0127,R059,2023-06-14 04:00:00,37,31,820.13,Completed,UPI,Egg Fried Rice,C102
+O0128,R040,2023-08-14 06:00:00,42,39,929.99,Completed,Net Banking,Egg Fried Rice,C064
+O0129,R002,2023-09-24 18:00:00,40,28,195.88,Completed,Cash,Hakka Noodles,C009
+O0130,R029,2023-05-03 14:00:00,42,30,497.38,Completed,Credit Card,Veg Thali,C030
+O0131,R072,2023-04-07 12:00:00,38,29,950.46,Completed,Net Banking,Chicken Wings,C073
+O0132,R084,2023-05-12 04:00:00,41,43,829.27,Completed,Net Banking,Veg Thali,C083
+O0133,R021,2023-07-29 00:00:00,27,50,387.84,Completed,UPI,Masala Dosa,C135
+O0134,R085,2023-02-14 02:00:00,32,42,912.79,Completed,Net Banking,Paneer Tikka,C014
+O0135,R064,2023-09-23 16:00:00,29,20,267.15,Completed,Credit Card,Chole Bhature,C081
+O0136,R095,2023-02-10 18:00:00,45,30,435.14,Completed,UPI,Tandoori Chicken,C078
+O0137,R062,2023-05-17 22:00:00,37,41,323.8,Completed,Net Banking,Butter Chicken,C084
+O0138,R070,2023-05-02 04:00:00,41,48,510.55,Completed,Net Banking,Veg Thali,C126
+O0139,R041,2023-06-20 18:00:00,35,37,603.82,Completed,Cash,Tandoori Chicken,C020
+O0140,R091,2023-06-10 18:00:00,29,34,212.02,Completed,UPI,Garlic Naan,C158
+O0141,R011,2023-03-20 00:00:00,27,36,299.58,Completed,Credit Card,Hakka Noodles,C148
+O0142,R034,2023-08-12 22:00:00,29,50,675.71,Completed,Credit Card,Pasta Alfredo,C033
+O0143,R018,2023-08-31 02:00:00,29,40,864.08,Completed,Cash,Pasta Alfredo,C009
+O0144,R078,2023-05-08 14:00:00,26,28,225.47,Completed,Net Banking,Garlic Naan,C157
+O0145,R052,2023-08-04 18:00:00,37,25,963.01,Completed,UPI,Dal Makhani,C181
+O0146,R091,2023-05-03 10:00:00,45,40,575.69,Completed,UPI,Egg Fried Rice,C027
+O0147,R025,2023-05-28 10:00:00,43,27,808.58,Completed,UPI,Veg Thali,C101
+O0148,R041,2023-04-05 16:00:00,28,40,199.73,Completed,Net Banking,Chicken Biryani,C064
+O0149,R038,2023-05-03 14:00:00,27,50,453.71,Completed,UPI,Veg Manchurian,C001
+O0150,R050,2023-05-17 18:00:00,41,39,542.59,Completed,UPI,Butter Chicken,C076
+O0151,R008,2023-09-19 20:00:00,33,29,630.01,Completed,Credit Card,Mutton Rogan Josh,C060
+O0152,R027,2023-09-19 12:00:00,43,40,968.42,Completed,UPI,Samosa Chaat,C080
+O0153,R005,2023-09-01 20:00:00,34,44,579.52,Completed,Credit Card,Butter Chicken,C026
+O0154,R041,2023-04-07 14:00:00,36,29,926.56,Completed,Credit Card,Masala Dosa,C187
+O0155,R093,2023-02-05 22:00:00,40,37,972.6,Completed,UPI,Paneer Butter Masala,C099
+O0156,R096,2023-06-13 16:00:00,37,31,910.01,Completed,Credit Card,Egg Fried Rice,C108
+O0157,R032,2023-04-10 10:00:00,43,30,448.79,Completed,Credit Card,Mutton Rogan Josh,C071
+O0158,R044,2023-02-11 04:00:00,35,54,887.59,Completed,Credit Card,Dal Makhani,C017
+O0159,R057,2023-06-02 04:00:00,44,26,416.16,Completed,UPI,Chicken Biryani,C200
+O0160,R086,2023-02-22 14:00:00,39,37,760.82,Completed,UPI,Mutton Rogan Josh,C179
+O0161,R093,2023-04-28 10:00:00,41,29,742.54,Completed,UPI,Egg Fried Rice,C004
+O0162,R085,2023-03-25 02:00:00,36,38,661.91,Completed,UPI,Chicken Biryani,C058
+O0163,R085,2023-09-11 16:00:00,32,34,915.08,Completed,Cash,Garlic Naan,C074
+O0164,R029,2023-03-05 18:00:00,41,41,825.36,Completed,Net Banking,Egg Fried Rice,C143
+O0165,R034,2023-04-26 08:00:00,26,41,841.45,Completed,Net Banking,Egg Fried Rice,C006
+O0166,R045,2023-06-20 10:00:00,37,29,510.41,Completed,Credit Card,Tandoori Chicken,C019
+O0167,R086,2023-03-20 00:00:00,36,22,902.97,Completed,Cash,Butter Chicken,C183
+O0168,R021,2023-02-07 12:00:00,35,42,769.79,Completed,Credit Card,Fish Curry,C131
+O0169,R040,2023-08-21 10:00:00,41,50,418.26,Completed,Cash,Egg Fried Rice,C152
+O0170,R003,2023-05-12 00:00:00,25,40,508.81,Completed,Net Banking,Dal Makhani,C069
+O0171,R046,2023-05-13 16:00:00,32,48,353.16,Completed,Credit Card,Garlic Naan,C040
+O0172,R074,2023-06-08 14:00:00,43,49,873.24,Completed,Cash,Mutton Rogan Josh,C058
+O0173,R070,2023-06-25 06:00:00,27,34,467.35,Completed,Credit Card,Veg Manchurian,C053
+O0174,R008,2023-06-07 14:00:00,40,48,468.9,Completed,Credit Card,Chicken Biryani,C061
+O0175,R094,2023-07-13 02:00:00,28,45,479.64,Completed,Credit Card,Margherita Pizza,C074
+O0176,R081,2023-07-30 22:00:00,36,34,625.42,Completed,Cash,Margherita Pizza,C200
+O0177,R020,2023-03-17 06:00:00,38,40,389.83,Completed,Cash,Pasta Alfredo,C017
+O0178,R046,2023-08-19 14:00:00,44,40,846.67,Completed,Credit Card,Chicken Wings,C022
+O0179,R003,2023-05-17 06:00:00,32,35,719.02,Completed,UPI,Chicken Wings,C057
+O0180,R063,2023-06-21 10:00:00,42,21,823.23,Completed,Credit Card,Mutton Rogan Josh,C119
+O0181,R081,2023-04-17 04:00:00,25,47,208.11,Completed,Cash,Fish Curry,C018
+O0182,R008,2023-06-16 02:00:00,41,38,470.17,Completed,Cash,Garlic Naan,C006
+O0183,R004,2023-03-21 08:00:00,41,37,326.37,Completed,Cash,Veg Thali,C126
+O0184,R031,2023-04-18 08:00:00,28,43,314.34,Completed,UPI,Garlic Naan,C194
+O0185,R006,2023-06-26 18:00:00,26,36,436.48,Completed,Net Banking,Chicken Shawarma,C034
+O0186,R002,2023-08-22 10:00:00,43,43,874.76,Completed,Net Banking,Pasta Alfredo,C194
+O0187,R029,2023-01-01 12:00:00,36,50,471.06,Completed,UPI,Pasta Alfredo,C091
+O0188,R084,2023-02-01 08:00:00,26,40,203.59,Completed,UPI,Butter Chicken,C109
+O0189,R042,2023-06-11 00:00:00,36,47,870.58,Completed,Credit Card,Margherita Pizza,C098
+O0190,R009,2023-04-19 06:00:00,30,34,818.44,Completed,Credit Card,Paneer Butter Masala,C167
+O0191,R008,2023-05-15 12:00:00,35,40,616.28,Completed,Net Banking,Paneer Tikka,C086
+O0192,R045,2023-03-19 14:00:00,33,42,189.48,Completed,UPI,Paneer Butter Masala,C199
+O0193,R085,2023-10-08 02:00:00,40,44,279.9,Completed,Net Banking,Veg Thali,C119
+O0194,R055,2023-05-28 04:00:00,40,43,454.02,Completed,Net Banking,Samosa Chaat,C035
+O0195,R018,2023-01-17 14:00:00,38,34,502.96,Completed,UPI,Chicken Shawarma,C158
+O0196,R028,2023-07-16 08:00:00,25,38,405.04,Completed,Credit Card,Egg Fried Rice,C165
+O0197,R058,2023-09-21 06:00:00,45,34,802.35,Completed,Credit Card,Chicken Biryani,C156
+O0198,R056,2023-01-14 18:00:00,32,33,972.3,Completed,Credit Card,Chole Bhature,C002
+O0199,R019,2023-05-19 18:00:00,45,35,513.44,Completed,Net Banking,Paneer Tikka,C196
+O0200,R046,2023-02-01 20:00:00,45,44,295.29,Completed,UPI,Veg Manchurian,C051
+O0201,R040,2023-03-31 22:00:00,40,43,533.86,Completed,UPI,Masala Dosa,C112
+O0202,R023,2023-03-10 08:00:00,36,32,267.25,Completed,Cash,Samosa Chaat,C056
+O0203,R084,2023-09-05 14:00:00,30,28,544.37,Completed,Credit Card,Chole Bhature,C196
+O0204,R043,2023-04-22 12:00:00,26,22,497.84,Completed,Credit Card,Chicken Shawarma,C168
+O0205,R094,2023-03-02 22:00:00,40,25,984.9,Completed,Cash,Dal Makhani,C019
+O0206,R096,2023-02-08 14:00:00,41,47,449.51,Completed,UPI,Egg Fried Rice,C072
+O0207,R053,2023-03-03 16:00:00,30,34,253.65,Completed,Cash,Egg Fried Rice,C134
+O0208,R049,2023-09-30 02:00:00,37,32,941.29,Completed,Cash,Fish Curry,C030
+O0209,R002,2023-08-27 10:00:00,34,25,748.07,Completed,Net Banking,Tandoori Chicken,C155
+O0210,R053,2023-05-05 06:00:00,43,38,741.76,Completed,Credit Card,Veg Thali,C078
+O0211,R034,2023-01-10 14:00:00,40,31,426.65,Completed,Net Banking,Pasta Alfredo,C120
+O0212,R069,2023-03-21 18:00:00,31,36,322.96,Completed,Credit Card,Paneer Tikka,C174
+O0213,R069,2023-01-15 20:00:00,25,34,755.54,Completed,Cash,Fish Curry,C099
+O0214,R095,2023-01-03 18:00:00,39,40,396.09,Completed,Cash,Veg Manchurian,C181
+O0215,R088,2023-05-11 14:00:00,44,34,672.9,Completed,Net Banking,Veg Thali,C050
+O0216,R091,2023-07-02 10:00:00,44,48,229.75,Completed,Cash,Tandoori Chicken,C098
+O0217,R060,2023-01-02 12:00:00,30,54,522.23,Completed,Net Banking,Dal Makhani,C064
+O0218,R098,2023-02-14 06:00:00,44,48,690.33,Completed,Cash,Chicken Shawarma,C027
+O0219,R006,2023-02-09 18:00:00,39,39,617.98,Completed,Credit Card,Fish Curry,C105
+O0220,R073,2023-10-08 08:00:00,35,47,692.92,Completed,Credit Card,Fish Curry,C014
+O0221,R016,2023-07-26 08:00:00,43,33,345.9,Completed,Net Banking,Garlic Naan,C017
+O0222,R053,2023-07-26 18:00:00,35,44,536.72,Completed,UPI,Dal Makhani,C082
+O0223,R050,2023-03-10 00:00:00,38,37,205.75,Completed,Credit Card,Chole Bhature,C086
+O0224,R022,2023-01-28 20:00:00,43,33,214.64,Completed,Credit Card,Hakka Noodles,C079
+O0225,R001,2023-09-10 22:00:00,45,30,326.0,Completed,UPI,Margherita Pizza,C175
+O0226,R065,2023-06-09 02:00:00,29,43,700.53,Completed,Cash,Samosa Chaat,C043
+O0227,R018,2023-03-09 10:00:00,41,42,825.82,Completed,UPI,Chicken Shawarma,C033
+O0228,R080,2023-01-01 12:00:00,38,42,658.58,Completed,Credit Card,Chicken Wings,C159
+O0229,R085,2023-06-27 12:00:00,37,36,452.68,Completed,UPI,Paneer Butter Masala,C008
+O0230,R066,2023-08-01 02:00:00,32,40,156.22,Completed,UPI,Butter Chicken,C062
+O0231,R094,2023-05-22 16:00:00,36,40,740.57,Completed,Cash,Hakka Noodles,C161
+O0232,R090,2023-01-23 18:00:00,37,46,872.73,Completed,Net Banking,Pasta Alfredo,C179
+O0233,R019,2023-07-03 06:00:00,34,41,158.2,Completed,Cash,Samosa Chaat,C166
+O0234,R011,2023-03-02 10:00:00,32,34,674.68,Completed,Net Banking,Paneer Butter Masala,C169
+O0235,R043,2023-03-21 22:00:00,31,49,442.87,Completed,Net Banking,Paneer Butter Masala,C024
+O0236,R031,2023-03-19 10:00:00,33,48,499.12,Completed,Net Banking,Samosa Chaat,C076
+O0237,R023,2023-05-22 18:00:00,32,51,773.27,Completed,UPI,Veg Manchurian,C010
+O0238,R032,2023-05-11 08:00:00,42,39,518.54,Completed,UPI,Paneer Butter Masala,C059
+O0239,R003,2023-06-12 00:00:00,43,28,617.13,Completed,Credit Card,Chicken Biryani,C045
+O0240,R022,2023-10-03 14:00:00,36,38,739.2,Completed,UPI,Veg Manchurian,C112
+O0241,R096,2023-01-01 02:00:00,39,29,711.03,Completed,Cash,Pasta Alfredo,C163
+O0242,R088,2023-05-29 18:00:00,32,48,554.41,Completed,UPI,Butter Chicken,C147
+O0243,R072,2023-03-13 16:00:00,44,44,606.23,Completed,Cash,Fish Curry,C107
+O0244,R022,2023-05-11 02:00:00,35,31,698.13,Completed,UPI,Paneer Tikka,C176
+O0245,R092,2023-09-19 04:00:00,44,31,161.43,Completed,Credit Card,Paneer Tikka,C086
+O0246,R011,2023-01-15 00:00:00,45,34,169.7,Completed,Net Banking,Margherita Pizza,C165
+O0247,R055,2023-07-30 04:00:00,29,49,545.68,Completed,Net Banking,Butter Chicken,C031
+O0248,R077,2023-04-02 22:00:00,35,32,751.25,Completed,Cash,Tandoori Chicken,C122
+O0249,R014,2023-01-10 16:00:00,32,33,958.34,Completed,UPI,Mutton Rogan Josh,C153
+O0250,R080,2023-07-18 22:00:00,29,29,597.45,Completed,UPI,Paneer Butter Masala,C020
+O0251,R081,2023-04-29 10:00:00,33,35,722.93,Completed,Cash,Chole Bhature,C170
+O0252,R059,2023-08-29 04:00:00,42,36,932.8,Completed,Credit Card,Chicken Biryani,C097
+O0253,R091,2023-05-06 10:00:00,30,41,234.57,Completed,UPI,Margherita Pizza,C165
+O0254,R020,2023-04-26 02:00:00,42,47,258.32,Completed,Credit Card,Garlic Naan,C121
+O0255,R079,2023-08-20 02:00:00,44,39,555.14,Completed,Cash,Fish Curry,C190
+O0256,R078,2023-06-04 22:00:00,28,47,632.12,Completed,Credit Card,Margherita Pizza,C155
+O0257,R006,2023-08-07 16:00:00,39,37,408.3,Completed,UPI,Tandoori Chicken,C013
+O0258,R033,2023-02-15 20:00:00,40,47,478.34,Completed,Credit Card,Mutton Rogan Josh,C028
+O0259,R044,2023-07-23 08:00:00,31,34,889.14,Completed,Credit Card,Chole Bhature,C044
+O0260,R095,2023-06-26 10:00:00,30,51,601.6,Completed,Credit Card,Paneer Tikka,C122
+O0261,R094,2023-02-01 10:00:00,44,40,637.16,Completed,Credit Card,Tandoori Chicken,C179
+O0262,R049,2023-03-27 22:00:00,36,49,939.03,Completed,Credit Card,Pasta Alfredo,C106
+O0263,R004,2023-02-05 04:00:00,44,34,655.85,Completed,UPI,Veg Manchurian,C198
+O0264,R081,2023-09-01 22:00:00,32,46,542.74,Completed,Net Banking,Paneer Butter Masala,C194
+O0265,R005,2023-02-05 06:00:00,27,35,301.5,Completed,Cash,Dal Makhani,C068
+O0266,R064,2023-04-04 02:00:00,42,39,312.41,Completed,Credit Card,Garlic Naan,C056
+O0267,R012,2023-01-09 04:00:00,40,45,579.52,Completed,Net Banking,Fish Curry,C180
+O0268,R046,2023-08-25 06:00:00,31,31,188.52,Completed,Credit Card,Dal Makhani,C107
+O0269,R038,2023-02-18 10:00:00,34,36,582.7,Completed,UPI,Chicken Shawarma,C080
+O0270,R086,2023-07-31 20:00:00,37,44,898.68,Completed,Credit Card,Chicken Shawarma,C044
+O0271,R020,2023-09-21 12:00:00,33,29,480.16,Completed,UPI,Hakka Noodles,C022
+O0272,R059,2023-08-13 20:00:00,41,30,862.73,Completed,UPI,Masala Dosa,C026
+O0273,R031,2023-02-16 08:00:00,31,24,788.8,Completed,Credit Card,Butter Chicken,C117
+O0274,R065,2023-05-10 08:00:00,36,37,841.48,Completed,Net Banking,Paneer Butter Masala,C163
+O0275,R046,2023-03-12 16:00:00,38,53,437.31,Completed,Cash,Hakka Noodles,C005
+O0276,R021,2023-07-15 14:00:00,35,46,668.29,Completed,Cash,Mutton Rogan Josh,C075
+O0277,R095,2023-08-14 06:00:00,25,41,704.92,Completed,UPI,Masala Dosa,C180
+O0278,R097,2023-04-20 00:00:00,26,34,234.47,Completed,Net Banking,Paneer Tikka,C042
+O0279,R052,2023-03-10 18:00:00,31,35,294.64,Completed,Cash,Margherita Pizza,C164
+O0280,R044,2023-05-24 18:00:00,31,30,721.1,Completed,Credit Card,Egg Fried Rice,C033
+O0281,R035,2023-06-23 08:00:00,44,48,762.78,Completed,UPI,Fish Curry,C099
+O0282,R064,2023-06-20 18:00:00,30,32,184.51,Completed,Credit Card,Butter Chicken,C039
+O0283,R051,2023-02-11 00:00:00,42,41,562.47,Completed,UPI,Chicken Shawarma,C060
+O0284,R002,2023-07-11 00:00:00,39,33,557.72,Completed,Net Banking,Chicken Shawarma,C179
+O0285,R040,2023-02-06 00:00:00,27,49,510.77,Completed,UPI,Masala Dosa,C029
+O0286,R068,2023-08-25 14:00:00,33,33,798.66,Completed,Credit Card,Garlic Naan,C100
+O0287,R037,2023-06-12 00:00:00,41,48,975.09,Completed,Credit Card,Veg Manchurian,C039
+O0288,R071,2023-02-12 12:00:00,34,28,176.6,Completed,Cash,Paneer Butter Masala,C050
+O0289,R061,2023-06-23 16:00:00,40,29,940.17,Completed,UPI,Veg Thali,C042
+O0290,R005,2023-06-02 18:00:00,38,34,775.94,Completed,Credit Card,Dal Makhani,C125
+O0291,R099,2023-06-10 08:00:00,35,40,474.92,Completed,Cash,Chicken Shawarma,C096
+O0292,R069,2023-03-02 22:00:00,37,29,350.1,Completed,Cash,Paneer Tikka,C146
+O0293,R074,2023-06-05 06:00:00,26,32,649.49,Completed,Net Banking,Chicken Biryani,C160
+O0294,R071,2023-07-06 22:00:00,28,45,604.7,Completed,Net Banking,Chicken Biryani,C027
+O0295,R034,2023-04-26 22:00:00,26,53,956.29,Completed,UPI,Veg Manchurian,C005
+O0296,R088,2023-02-13 22:00:00,35,48,978.33,Completed,Cash,Veg Thali,C195
+O0297,R005,2023-05-23 00:00:00,30,25,811.93,Completed,Net Banking,Paneer Tikka,C180
+O0298,R059,2023-03-28 20:00:00,33,39,896.27,Completed,Net Banking,Veg Thali,C099
+O0299,R051,2023-05-09 18:00:00,44,39,738.13,Completed,Cash,Hakka Noodles,C007
+O0300,R093,2023-01-27 18:00:00,42,46,817.62,Completed,Net Banking,Samosa Chaat,C105
+O0301,R016,2023-07-12 20:00:00,39,32,603.51,Completed,UPI,Veg Manchurian,C069
+O0302,R052,2023-06-22 12:00:00,34,34,745.77,Completed,Net Banking,Egg Fried Rice,C066
+O0303,R045,2023-04-25 12:00:00,42,29,521.39,Completed,Credit Card,Fish Curry,C084
+O0304,R064,2023-10-07 22:00:00,38,31,933.41,Completed,Net Banking,Samosa Chaat,C198
+O0305,R007,2023-10-08 12:00:00,40,33,928.24,Completed,Net Banking,Masala Dosa,C183
+O0306,R003,2023-03-21 16:00:00,36,35,997.12,Completed,UPI,Paneer Tikka,C131
+O0307,R035,2023-06-04 20:00:00,32,20,367.82,Completed,Credit Card,Veg Thali,C140
+O0308,R095,2023-03-26 18:00:00,27,47,334.47,Completed,Cash,Egg Fried Rice,C144
+O0309,R005,2023-04-30 18:00:00,27,45,674.05,Completed,UPI,Chicken Biryani,C023
+O0310,R033,2023-06-14 00:00:00,45,23,464.18,Completed,Credit Card,Hakka Noodles,C054
+O0311,R088,2023-09-22 14:00:00,27,44,487.21,Completed,Credit Card,Dal Makhani,C091
+O0312,R088,2023-05-21 00:00:00,41,39,806.43,Completed,Credit Card,Mutton Rogan Josh,C189
+O0313,R075,2023-01-09 02:00:00,25,28,724.67,Completed,Net Banking,Paneer Tikka,C171
+O0314,R090,2023-06-02 12:00:00,43,24,875.73,Completed,Cash,Chicken Wings,C018
+O0315,R100,2023-09-04 22:00:00,41,50,837.06,Completed,UPI,Paneer Butter Masala,C089
+O0316,R038,2023-01-03 00:00:00,35,38,566.36,Completed,UPI,Paneer Tikka,C009
+O0317,R088,2023-07-08 12:00:00,44,45,238.77,Completed,Cash,Pasta Alfredo,C064
+O0318,R098,2023-05-19 04:00:00,28,39,508.85,Completed,Net Banking,Veg Manchurian,C129
+O0319,R027,2023-09-18 20:00:00,43,53,820.95,Completed,Credit Card,Butter Chicken,C166
+O0320,R098,2023-09-22 14:00:00,32,41,462.0,Completed,Credit Card,Masala Dosa,C175
+O0321,R068,2023-06-02 06:00:00,25,27,866.12,Completed,Net Banking,Chicken Wings,C104
+O0322,R067,2023-03-18 10:00:00,26,43,489.25,Completed,Net Banking,Chicken Shawarma,C194
+O0323,R044,2023-05-27 14:00:00,28,39,845.23,Completed,Cash,Samosa Chaat,C024
+O0324,R050,2023-03-24 06:00:00,34,29,795.25,Completed,Cash,Veg Thali,C156
+O0325,R033,2023-03-28 10:00:00,27,35,720.84,Completed,Net Banking,Paneer Butter Masala,C168
+O0326,R027,2023-06-12 20:00:00,43,42,156.01,Completed,Cash,Dal Makhani,C017
+O0327,R015,2023-06-12 02:00:00,37,30,936.88,Completed,Net Banking,Veg Manchurian,C131
+O0328,R073,2023-02-18 02:00:00,29,40,461.91,Completed,UPI,Paneer Tikka,C020
+O0329,R043,2023-03-19 20:00:00,43,31,228.6,Completed,UPI,Veg Manchurian,C159
+O0330,R032,2023-05-31 10:00:00,44,30,160.78,Completed,Credit Card,Hakka Noodles,C079
+O0331,R076,2023-04-07 18:00:00,41,51,881.78,Completed,Credit Card,Veg Thali,C010
+O0332,R087,2023-05-03 20:00:00,31,23,505.72,Completed,UPI,Tandoori Chicken,C100
+O0333,R093,2023-08-11 22:00:00,33,30,648.51,Completed,Credit Card,Dal Makhani,C008
+O0334,R069,2023-06-15 22:00:00,34,32,986.99,Completed,Cash,Samosa Chaat,C148
+O0335,R088,2023-07-24 14:00:00,30,42,944.76,Completed,Cash,Chicken Wings,C131
+O0336,R046,2023-02-20 18:00:00,30,41,685.37,Completed,Net Banking,Garlic Naan,C102
+O0337,R021,2023-06-28 06:00:00,43,30,771.79,Completed,Net Banking,Mutton Rogan Josh,C106
+O0338,R020,2023-08-22 14:00:00,32,20,696.87,Completed,UPI,Paneer Tikka,C026
+O0339,R043,2023-01-30 20:00:00,29,36,506.42,Completed,Net Banking,Veg Manchurian,C089
+O0340,R096,2023-03-06 00:00:00,29,37,248.6,Completed,Credit Card,Fish Curry,C055
+O0341,R002,2023-04-13 08:00:00,32,36,325.99,Completed,Cash,Chicken Shawarma,C169
+O0342,R075,2023-06-26 16:00:00,33,42,403.26,Completed,Net Banking,Veg Manchurian,C193
+O0343,R007,2023-08-04 08:00:00,40,30,331.95,Completed,Net Banking,Veg Manchurian,C127
+O0344,R073,2023-08-18 18:00:00,34,26,941.95,Completed,Net Banking,Tandoori Chicken,C199
+O0345,R020,2023-02-11 20:00:00,29,38,324.27,Completed,Cash,Dal Makhani,C045
+O0346,R045,2023-01-21 02:00:00,44,41,350.11,Completed,Credit Card,Masala Dosa,C010
+O0347,R047,2023-02-22 22:00:00,33,47,741.5,Completed,UPI,Chicken Shawarma,C018
+O0348,R038,2023-04-28 00:00:00,31,33,975.15,Completed,Cash,Chicken Wings,C049
+O0349,R081,2023-01-13 12:00:00,27,46,691.95,Completed,UPI,Chicken Biryani,C141
+O0350,R038,2023-04-25 02:00:00,29,41,399.13,Completed,Net Banking,Chicken Wings,C036
+O0351,R042,2023-08-01 04:00:00,38,35,842.91,Completed,Cash,Egg Fried Rice,C143
+O0352,R064,2023-10-02 18:00:00,30,33,282.89,Completed,UPI,Fish Curry,C069
+O0353,R052,2023-02-24 16:00:00,31,33,701.67,Completed,Credit Card,Butter Chicken,C149
+O0354,R077,2023-09-19 08:00:00,43,33,569.99,Completed,Cash,Pasta Alfredo,C113
+O0355,R056,2023-06-09 22:00:00,25,51,789.15,Completed,Net Banking,Garlic Naan,C059
+O0356,R022,2023-05-14 04:00:00,36,37,563.01,Completed,Cash,Pasta Alfredo,C048
+O0357,R001,2023-08-20 08:00:00,42,38,678.14,Completed,Net Banking,Egg Fried Rice,C101
+O0358,R019,2023-03-06 00:00:00,40,24,152.59,Completed,Credit Card,Egg Fried Rice,C123
+O0359,R073,2023-05-21 10:00:00,29,35,867.04,Completed,Net Banking,Pasta Alfredo,C031
+O0360,R006,2023-06-19 08:00:00,33,45,765.95,Completed,UPI,Masala Dosa,C070
+O0361,R057,2023-03-07 12:00:00,27,32,317.89,Completed,Cash,Chole Bhature,C069
+O0362,R017,2023-02-27 04:00:00,44,44,954.38,Completed,UPI,Chole Bhature,C191
+O0363,R044,2023-05-14 10:00:00,33,35,991.29,Completed,Credit Card,Mutton Rogan Josh,C167
+O0364,R002,2023-01-17 02:00:00,44,45,684.09,Completed,Cash,Fish Curry,C107
+O0365,R093,2023-09-26 14:00:00,32,38,860.56,Completed,Credit Card,Chole Bhature,C018
+O0366,R062,2023-10-01 16:00:00,25,31,991.32,Completed,Net Banking,Chicken Biryani,C161
+O0367,R086,2023-09-21 12:00:00,29,31,409.23,Completed,Cash,Tandoori Chicken,C168
+O0368,R085,2023-04-26 16:00:00,31,39,307.22,Completed,Net Banking,Tandoori Chicken,C144
+O0369,R100,2023-09-17 08:00:00,43,28,425.11,Completed,Cash,Butter Chicken,C131
+O0370,R033,2023-08-21 18:00:00,25,33,971.83,Completed,Net Banking,Chicken Shawarma,C098
+O0371,R096,2023-06-27 18:00:00,38,37,401.47,Completed,UPI,Veg Thali,C096
+O0372,R079,2023-03-06 00:00:00,29,38,533.29,Completed,Cash,Chicken Shawarma,C157
+O0373,R025,2023-09-05 02:00:00,29,29,873.45,Completed,Credit Card,Hakka Noodles,C025
+O0374,R009,2023-04-22 22:00:00,40,34,300.85,Completed,Credit Card,Chicken Biryani,C026
+O0375,R071,2023-03-04 12:00:00,42,45,535.82,Completed,Credit Card,Mutton Rogan Josh,C038
+O0376,R055,2023-06-27 04:00:00,26,52,374.45,Completed,Net Banking,Hakka Noodles,C164
+O0377,R036,2023-07-05 06:00:00,41,47,506.56,Completed,Credit Card,Paneer Tikka,C075
+O0378,R023,2023-09-01 04:00:00,35,48,966.78,Completed,Net Banking,Samosa Chaat,C057
+O0379,R068,2023-07-22 22:00:00,32,35,521.72,Completed,Cash,Chicken Shawarma,C114
+O0380,R022,2023-07-18 20:00:00,30,37,202.43,Completed,UPI,Veg Manchurian,C152
+O0381,R009,2023-05-29 02:00:00,39,35,908.82,Completed,Cash,Dal Makhani,C174
+O0382,R085,2023-02-21 22:00:00,35,41,878.8,Completed,Cash,Butter Chicken,C050
+O0383,R082,2023-08-05 04:00:00,39,28,441.53,Completed,Cash,Margherita Pizza,C053
+O0384,R021,2023-08-24 02:00:00,32,38,191.63,Completed,Cash,Dal Makhani,C128
+O0385,R075,2023-07-30 20:00:00,45,35,570.26,Completed,UPI,Egg Fried Rice,C049
+O0386,R015,2023-06-18 10:00:00,45,31,694.71,Completed,Cash,Samosa Chaat,C160
+O0387,R065,2023-08-15 08:00:00,33,28,522.97,Completed,Cash,Pasta Alfredo,C052
+O0388,R081,2023-07-14 18:00:00,31,42,207.26,Completed,Credit Card,Paneer Butter Masala,C051
+O0389,R070,2023-03-14 18:00:00,28,44,229.47,Completed,Cash,Dal Makhani,C069
+O0390,R078,2023-07-24 02:00:00,36,32,786.17,Completed,Cash,Samosa Chaat,C111
+O0391,R050,2023-05-31 14:00:00,40,40,604.59,Completed,Cash,Veg Manchurian,C065
+O0392,R097,2023-01-12 04:00:00,33,41,702.18,Completed,Cash,Hakka Noodles,C140
+O0393,R056,2023-03-24 22:00:00,36,28,401.3,Completed,UPI,Tandoori Chicken,C140
+O0394,R035,2023-06-16 10:00:00,42,37,520.92,Completed,Net Banking,Tandoori Chicken,C193
+O0395,R040,2023-07-26 02:00:00,43,44,440.13,Completed,Net Banking,Egg Fried Rice,C061
+O0396,R037,2023-04-19 10:00:00,34,42,706.71,Completed,UPI,Chicken Shawarma,C066
+O0397,R002,2023-07-09 16:00:00,31,46,536.84,Completed,Credit Card,Fish Curry,C147
+O0398,R055,2023-09-07 12:00:00,34,31,244.78,Completed,UPI,Paneer Tikka,C123
+O0399,R100,2023-03-09 00:00:00,42,30,726.96,Completed,Cash,Veg Manchurian,C160
+O0400,R092,2023-01-01 04:00:00,37,51,977.51,Completed,Net Banking,Chole Bhature,C158
+O0401,R036,2023-01-15 20:00:00,27,38,500.54,Completed,UPI,Paneer Tikka,C036
+O0402,R034,2023-01-22 06:00:00,30,42,177.99,Completed,Cash,Samosa Chaat,C170
+O0403,R069,2023-02-15 18:00:00,37,27,610.43,Completed,UPI,Tandoori Chicken,C196
+O0404,R068,2023-03-24 20:00:00,28,33,691.96,Completed,Cash,Hakka Noodles,C175
+O0405,R071,2023-06-01 06:00:00,43,40,451.19,Completed,Credit Card,Chole Bhature,C125
+O0406,R041,2023-08-19 02:00:00,45,28,914.55,Completed,Credit Card,Butter Chicken,C064
+O0407,R044,2023-07-28 04:00:00,28,37,958.08,Completed,UPI,Chicken Wings,C008
+O0408,R025,2023-03-18 10:00:00,41,34,549.79,Completed,Cash,Samosa Chaat,C165
+O0409,R091,2023-08-14 12:00:00,29,35,578.32,Completed,Cash,Margherita Pizza,C085
+O0410,R056,2023-08-22 14:00:00,39,23,511.81,Completed,Credit Card,Hakka Noodles,C020
+O0411,R019,2023-02-07 04:00:00,29,44,731.82,Completed,Net Banking,Chole Bhature,C161
+O0412,R001,2023-09-16 10:00:00,38,43,200.11,Completed,Credit Card,Mutton Rogan Josh,C124
+O0413,R097,2023-06-26 00:00:00,33,41,409.4,Completed,Cash,Masala Dosa,C104
+O0414,R066,2023-05-26 04:00:00,42,37,829.91,Completed,UPI,Veg Thali,C047
+O0415,R020,2023-08-09 08:00:00,31,24,315.51,Completed,Net Banking,Paneer Tikka,C120
+O0416,R085,2023-08-05 10:00:00,30,28,607.54,Completed,UPI,Butter Chicken,C009
+O0417,R090,2023-04-08 18:00:00,27,35,334.84,Completed,UPI,Egg Fried Rice,C009
+O0418,R073,2023-08-22 02:00:00,33,39,247.56,Completed,Cash,Tandoori Chicken,C113
+O0419,R050,2023-04-26 10:00:00,39,55,494.16,Completed,Credit Card,Chicken Biryani,C183
+O0420,R047,2023-06-18 10:00:00,35,36,616.85,Completed,Credit Card,Garlic Naan,C057
+O0421,R060,2023-08-22 22:00:00,37,44,373.0,Completed,Cash,Veg Manchurian,C058
+O0422,R005,2023-03-07 14:00:00,41,51,438.8,Completed,Net Banking,Veg Thali,C160
+O0423,R072,2023-02-25 16:00:00,26,24,533.8,Completed,Net Banking,Dal Makhani,C139
+O0424,R053,2023-05-08 04:00:00,36,38,769.89,Completed,Cash,Chicken Wings,C184
+O0425,R082,2023-07-10 04:00:00,37,27,276.97,Completed,Net Banking,Mutton Rogan Josh,C166
+O0426,R079,2023-05-02 16:00:00,37,43,650.1,Completed,Cash,Paneer Butter Masala,C195
+O0427,R098,2023-09-02 20:00:00,42,48,658.13,Completed,UPI,Tandoori Chicken,C060
+O0428,R030,2023-05-30 12:00:00,29,26,977.83,Completed,Credit Card,Paneer Tikka,C180
+O0429,R003,2023-05-14 08:00:00,42,40,664.66,Completed,Credit Card,Paneer Butter Masala,C104
+O0430,R047,2023-05-30 18:00:00,43,34,495.53,Completed,UPI,Fish Curry,C002
+O0431,R068,2023-08-15 08:00:00,29,44,559.85,Completed,Net Banking,Fish Curry,C165
+O0432,R021,2023-04-19 08:00:00,45,32,671.45,Completed,Cash,Masala Dosa,C062
+O0433,R088,2023-06-09 22:00:00,26,40,602.5,Completed,Credit Card,Chicken Wings,C121
+O0434,R025,2023-01-23 22:00:00,34,42,722.96,Completed,Cash,Margherita Pizza,C056
+O0435,R081,2023-02-20 00:00:00,44,28,399.67,Completed,UPI,Garlic Naan,C131
+O0436,R046,2023-03-17 00:00:00,39,44,359.58,Completed,Net Banking,Chicken Shawarma,C200
+O0437,R081,2023-09-15 10:00:00,41,50,981.48,Completed,Net Banking,Chicken Biryani,C139
+O0438,R090,2023-02-08 16:00:00,43,40,950.31,Completed,UPI,Chicken Shawarma,C177
+O0439,R064,2023-09-14 12:00:00,38,51,778.48,Completed,Cash,Tandoori Chicken,C131
+O0440,R003,2023-02-23 04:00:00,31,39,984.33,Completed,Cash,Samosa Chaat,C180
+O0441,R094,2023-05-15 12:00:00,39,37,994.37,Completed,Cash,Pasta Alfredo,C184
+O0442,R095,2023-06-08 08:00:00,31,25,380.14,Completed,Cash,Chole Bhature,C099
+O0443,R032,2023-08-30 12:00:00,37,40,443.67,Completed,UPI,Garlic Naan,C164
+O0444,R074,2023-07-04 12:00:00,27,26,933.13,Completed,Cash,Masala Dosa,C190
+O0445,R031,2023-03-13 16:00:00,28,34,759.27,Completed,UPI,Paneer Tikka,C091
+O0446,R036,2023-05-06 12:00:00,42,46,276.7,Completed,Credit Card,Garlic Naan,C135
+O0447,R024,2023-08-29 08:00:00,37,47,820.06,Completed,Cash,Chicken Wings,C126
+O0448,R098,2023-01-16 20:00:00,28,31,314.59,Completed,Net Banking,Chicken Wings,C022
+O0449,R054,2023-01-08 06:00:00,41,43,324.71,Completed,Net Banking,Butter Chicken,C010
+O0450,R010,2023-05-19 14:00:00,39,35,671.69,Completed,Cash,Dal Makhani,C128
+O0451,R074,2023-03-12 18:00:00,45,37,327.31,Completed,Net Banking,Veg Thali,C064
+O0452,R058,2023-01-30 20:00:00,30,36,474.06,Completed,Credit Card,Dal Makhani,C031
+O0453,R031,2023-05-21 16:00:00,26,40,288.75,Completed,Credit Card,Paneer Butter Masala,C052
+O0454,R096,2023-07-19 20:00:00,31,41,736.08,Completed,UPI,Mutton Rogan Josh,C132
+O0455,R092,2023-07-14 10:00:00,32,38,672.9,Completed,UPI,Mutton Rogan Josh,C120
+O0456,R058,2023-09-27 20:00:00,32,29,921.09,Completed,Net Banking,Margherita Pizza,C033
+O0457,R066,2023-05-21 10:00:00,28,30,231.16,Completed,UPI,Paneer Butter Masala,C077
+O0458,R091,2023-07-04 14:00:00,44,35,988.21,Completed,Cash,Hakka Noodles,C171
+O0459,R013,2023-03-13 20:00:00,37,37,411.57,Completed,Cash,Samosa Chaat,C030
+O0460,R025,2023-08-05 04:00:00,38,50,174.68,Completed,Credit Card,Mutton Rogan Josh,C150
+O0461,R022,2023-01-02 08:00:00,27,38,446.86,Completed,UPI,Paneer Tikka,C187
+O0462,R057,2023-08-17 06:00:00,42,42,955.38,Completed,Credit Card,Chicken Biryani,C181
+O0463,R009,2023-02-16 12:00:00,31,26,396.7,Completed,Cash,Dal Makhani,C170
+O0464,R055,2023-07-01 04:00:00,41,24,568.52,Completed,Net Banking,Chicken Biryani,C171
+O0465,R082,2023-08-08 10:00:00,31,46,384.08,Completed,Cash,Veg Manchurian,C140
+O0466,R051,2023-06-17 02:00:00,31,46,725.15,Completed,Cash,Chicken Biryani,C143
+O0467,R035,2023-04-16 08:00:00,40,34,465.88,Completed,Cash,Chicken Wings,C191
+O0468,R033,2023-05-10 18:00:00,27,40,935.99,Completed,UPI,Veg Manchurian,C016
+O0469,R056,2023-07-05 14:00:00,31,31,242.82,Completed,Credit Card,Paneer Butter Masala,C172
+O0470,R097,2023-07-03 08:00:00,28,32,682.58,Completed,Cash,Chole Bhature,C085
+O0471,R100,2023-01-23 12:00:00,41,45,989.35,Completed,UPI,Margherita Pizza,C011
+O0472,R046,2023-01-27 16:00:00,29,32,463.79,Completed,Credit Card,Chicken Wings,C072
+O0473,R079,2023-07-26 10:00:00,44,38,604.82,Completed,Net Banking,Butter Chicken,C036
+O0474,R042,2023-09-07 08:00:00,31,34,807.43,Completed,Net Banking,Chicken Shawarma,C167
+O0475,R012,2023-06-18 04:00:00,42,53,273.77,Completed,Credit Card,Dal Makhani,C151
+O0476,R040,2023-09-14 18:00:00,43,43,553.82,Completed,Net Banking,Fish Curry,C018
+O0477,R004,2023-01-06 04:00:00,41,35,876.63,Completed,Net Banking,Masala Dosa,C131
+O0478,R064,2023-03-11 14:00:00,45,50,898.19,Completed,Credit Card,Masala Dosa,C081
+O0479,R002,2023-05-24 02:00:00,44,44,597.79,Completed,Credit Card,Pasta Alfredo,C199
+O0480,R098,2023-07-30 14:00:00,38,39,828.33,Completed,Net Banking,Fish Curry,C098
+O0481,R033,2023-09-16 10:00:00,44,53,603.81,Completed,Net Banking,Margherita Pizza,C135
+O0482,R026,2023-05-03 20:00:00,37,41,729.38,Completed,UPI,Veg Thali,C120
+O0483,R098,2023-04-17 12:00:00,45,45,838.75,Completed,Cash,Veg Thali,C147
+O0484,R051,2023-01-29 12:00:00,33,41,214.69,Completed,UPI,Garlic Naan,C157
+O0485,R050,2023-09-12 06:00:00,40,32,229.46,Completed,Net Banking,Pasta Alfredo,C149
+O0486,R056,2023-01-08 22:00:00,45,29,188.02,Completed,Net Banking,Egg Fried Rice,C074
+O0487,R100,2023-09-19 22:00:00,45,47,913.37,Completed,Credit Card,Butter Chicken,C019
+O0488,R082,2023-10-03 22:00:00,44,44,336.78,Completed,Cash,Veg Manchurian,C027
+O0489,R081,2023-03-23 14:00:00,25,29,579.7,Completed,Net Banking,Veg Manchurian,C122
+O0490,R087,2023-07-29 12:00:00,36,34,452.54,Completed,Cash,Margherita Pizza,C092
+O0491,R050,2023-01-10 12:00:00,36,35,481.2,Completed,Net Banking,Dal Makhani,C192
+O0492,R090,2023-07-20 16:00:00,31,40,446.26,Completed,Net Banking,Tandoori Chicken,C055
+O0493,R005,2023-06-24 22:00:00,45,42,887.17,Completed,Net Banking,Butter Chicken,C193
+O0494,R075,2023-05-06 10:00:00,26,34,239.78,Completed,Cash,Pasta Alfredo,C006
+O0495,R060,2023-02-22 08:00:00,31,35,780.06,Completed,Cash,Butter Chicken,C026
+O0496,R046,2023-06-08 22:00:00,39,39,577.66,Completed,Credit Card,Fish Curry,C132
+O0497,R073,2023-03-30 04:00:00,31,26,647.85,Completed,Credit Card,Mutton Rogan Josh,C097
+O0498,R017,2023-02-07 14:00:00,41,26,549.52,Completed,Credit Card,Butter Chicken,C133
+O0499,R073,2023-07-22 14:00:00,31,25,808.1,Completed,Credit Card,Chicken Shawarma,C150
+O0500,R091,2023-06-02 14:00:00,25,42,611.59,Completed,UPI,Hakka Noodles,C049
+O0501,R036,2023-04-06 00:00:00,29,45,499.08,Completed,Net Banking,Masala Dosa,C147
+O0502,R042,2023-03-16 22:00:00,32,45,500.36,Completed,Net Banking,Tandoori Chicken,C086
+O0503,R004,2023-05-11 14:00:00,39,42,511.43,Completed,Credit Card,Paneer Butter Masala,C110
+O0504,R051,2023-05-12 02:00:00,40,40,619.59,Completed,Net Banking,Dal Makhani,C117
+O0505,R061,2023-09-12 14:00:00,27,46,357.46,Completed,Credit Card,Margherita Pizza,C088
+O0506,R067,2023-06-22 22:00:00,44,48,980.65,Completed,UPI,Paneer Tikka,C069
+O0507,R018,2023-04-26 22:00:00,33,35,881.17,Completed,UPI,Samosa Chaat,C102
+O0508,R006,2023-03-19 22:00:00,45,46,436.44,Completed,Net Banking,Garlic Naan,C191
+O0509,R011,2023-10-09 06:00:00,34,38,602.11,Completed,Cash,Chicken Biryani,C124
+O0510,R073,2023-07-21 10:00:00,37,49,701.29,Completed,UPI,Chicken Biryani,C198
+O0511,R045,2023-04-01 00:00:00,35,38,569.33,Completed,Cash,Paneer Tikka,C188
+O0512,R047,2023-01-31 08:00:00,34,30,296.71,Completed,UPI,Veg Thali,C021
+O0513,R001,2023-01-16 00:00:00,27,31,697.22,Completed,UPI,Masala Dosa,C111
+O0514,R009,2023-02-22 20:00:00,44,35,716.99,Completed,Net Banking,Pasta Alfredo,C142
+O0515,R025,2023-04-18 16:00:00,28,34,648.92,Completed,Net Banking,Paneer Tikka,C187
+O0516,R092,2023-08-02 22:00:00,40,49,592.84,Completed,UPI,Butter Chicken,C066
+O0517,R015,2023-07-19 08:00:00,36,35,548.61,Completed,Credit Card,Chicken Biryani,C191
+O0518,R086,2023-07-12 08:00:00,44,45,981.3,Completed,Cash,Fish Curry,C050
+O0519,R070,2023-06-15 12:00:00,44,31,233.25,Completed,UPI,Garlic Naan,C049
+O0520,R061,2023-01-22 14:00:00,45,23,902.52,Completed,Net Banking,Pasta Alfredo,C033
+O0521,R006,2023-06-29 22:00:00,27,35,151.58,Completed,Credit Card,Tandoori Chicken,C040
+O0522,R041,2023-06-13 14:00:00,32,50,794.83,Completed,UPI,Pasta Alfredo,C167
+O0523,R004,2023-05-29 08:00:00,29,22,540.43,Completed,Cash,Fish Curry,C094
+O0524,R041,2023-04-20 00:00:00,38,32,602.38,Completed,Credit Card,Margherita Pizza,C163
+O0525,R051,2023-05-12 14:00:00,32,34,193.49,Completed,Credit Card,Margherita Pizza,C125
+O0526,R017,2023-09-06 20:00:00,25,25,961.95,Completed,Cash,Chicken Biryani,C176
+O0527,R098,2023-01-09 06:00:00,40,31,303.77,Completed,Cash,Masala Dosa,C092
+O0528,R082,2023-02-09 18:00:00,34,29,852.62,Completed,Cash,Fish Curry,C197
+O0529,R036,2023-05-29 04:00:00,29,30,996.53,Completed,UPI,Egg Fried Rice,C117
+O0530,R053,2023-07-27 04:00:00,41,34,903.94,Completed,UPI,Chicken Shawarma,C065
+O0531,R086,2023-08-15 18:00:00,45,32,691.2,Completed,Net Banking,Chicken Shawarma,C077
+O0532,R019,2023-02-15 14:00:00,36,27,279.41,Completed,Net Banking,Egg Fried Rice,C193
+O0533,R077,2023-09-17 22:00:00,29,36,653.61,Completed,Credit Card,Fish Curry,C013
+O0534,R019,2023-02-18 08:00:00,28,41,724.62,Completed,Cash,Paneer Tikka,C114
+O0535,R052,2023-01-11 14:00:00,41,44,939.75,Completed,Net Banking,Chicken Biryani,C084
+O0536,R040,2023-02-10 14:00:00,35,43,733.2,Completed,Credit Card,Chole Bhature,C091
+O0537,R066,2023-08-29 18:00:00,35,39,287.43,Completed,Cash,Hakka Noodles,C153
+O0538,R008,2023-05-27 16:00:00,27,45,182.3,Completed,Cash,Margherita Pizza,C063
+O0539,R021,2023-03-26 14:00:00,36,37,836.42,Completed,Net Banking,Garlic Naan,C092
+O0540,R017,2023-01-11 20:00:00,31,43,449.5,Completed,Cash,Fish Curry,C005
+O0541,R018,2023-08-03 18:00:00,31,38,435.44,Completed,Cash,Chole Bhature,C163
+O0542,R062,2023-04-03 20:00:00,34,36,447.24,Completed,Credit Card,Dal Makhani,C035
+O0543,R091,2023-04-01 04:00:00,41,22,934.51,Completed,Net Banking,Fish Curry,C056
+O0544,R083,2023-05-12 04:00:00,38,41,860.81,Completed,UPI,Chicken Biryani,C019
+O0545,R092,2023-02-09 08:00:00,45,28,822.24,Completed,Cash,Hakka Noodles,C090
+O0546,R098,2023-04-28 08:00:00,37,49,562.7,Completed,Net Banking,Dal Makhani,C110
+O0547,R093,2023-04-10 12:00:00,37,26,986.69,Completed,Credit Card,Veg Manchurian,C044
+O0548,R006,2023-05-08 12:00:00,26,47,641.62,Completed,UPI,Veg Thali,C188
+O0549,R094,2023-07-30 06:00:00,29,23,905.13,Completed,Credit Card,Paneer Tikka,C050
+O0550,R067,2023-10-02 02:00:00,39,46,972.41,Completed,Credit Card,Hakka Noodles,C021
+O0551,R006,2023-08-06 10:00:00,27,30,661.41,Completed,Credit Card,Hakka Noodles,C100
+O0552,R072,2023-03-06 16:00:00,34,36,654.11,Completed,Cash,Pasta Alfredo,C148
+O0553,R089,2023-09-12 06:00:00,45,24,968.67,Completed,Net Banking,Paneer Tikka,C084
+O0554,R096,2023-10-09 10:00:00,29,41,175.74,Completed,UPI,Tandoori Chicken,C067
+O0555,R090,2023-07-04 20:00:00,41,44,607.71,Completed,Cash,Veg Manchurian,C148
+O0556,R081,2023-07-04 22:00:00,31,32,250.7,Completed,Credit Card,Paneer Butter Masala,C089
+O0557,R050,2023-01-21 08:00:00,44,37,845.98,Completed,Credit Card,Tandoori Chicken,C047
+O0558,R024,2023-04-26 14:00:00,40,33,945.29,Completed,Credit Card,Pasta Alfredo,C099
+O0559,R045,2023-06-25 22:00:00,36,35,626.66,Completed,Cash,Garlic Naan,C173
+O0560,R075,2023-07-08 10:00:00,29,46,404.14,Completed,Net Banking,Margherita Pizza,C191
+O0561,R011,2023-01-05 18:00:00,43,43,915.99,Completed,Cash,Pasta Alfredo,C001
+O0562,R011,2023-02-25 02:00:00,29,42,237.3,Completed,UPI,Margherita Pizza,C146
+O0563,R072,2023-06-19 02:00:00,43,39,820.66,Completed,Net Banking,Veg Manchurian,C181
+O0564,R023,2023-10-07 16:00:00,38,35,185.35,Completed,Cash,Veg Thali,C191
+O0565,R034,2023-01-08 10:00:00,33,38,809.91,Completed,Cash,Dal Makhani,C039
+O0566,R026,2023-08-06 10:00:00,31,41,798.93,Completed,Cash,Hakka Noodles,C025
+O0567,R034,2023-03-30 00:00:00,28,42,822.38,Completed,Net Banking,Pasta Alfredo,C012
+O0568,R042,2023-04-24 04:00:00,30,32,713.42,Completed,Net Banking,Samosa Chaat,C121
+O0569,R090,2023-02-16 22:00:00,29,45,304.84,Completed,Cash,Veg Manchurian,C006
+O0570,R091,2023-04-28 10:00:00,39,47,849.23,Completed,Net Banking,Veg Manchurian,C059
+O0571,R033,2023-02-03 20:00:00,42,38,340.44,Completed,Net Banking,Masala Dosa,C129
+O0572,R034,2023-07-29 08:00:00,38,39,854.5,Completed,UPI,Paneer Butter Masala,C058
+O0573,R067,2023-07-11 12:00:00,30,45,682.84,Completed,UPI,Egg Fried Rice,C182
+O0574,R059,2023-05-23 12:00:00,26,38,866.0,Completed,Net Banking,Chicken Biryani,C119
+O0575,R020,2023-09-27 20:00:00,34,29,607.36,Completed,Cash,Paneer Butter Masala,C190
+O0576,R097,2023-09-16 16:00:00,40,23,161.54,Completed,UPI,Chole Bhature,C088
+O0577,R058,2023-01-24 02:00:00,43,34,934.62,Completed,Credit Card,Chicken Biryani,C091
+O0578,R071,2023-03-27 20:00:00,27,47,632.22,Completed,UPI,Egg Fried Rice,C112
+O0579,R020,2023-07-14 16:00:00,36,32,529.39,Completed,UPI,Chole Bhature,C142
+O0580,R005,2023-02-05 12:00:00,45,33,538.63,Completed,Cash,Chicken Wings,C089
+O0581,R081,2023-06-27 16:00:00,28,36,631.13,Completed,Cash,Dal Makhani,C084
+O0582,R075,2023-01-26 14:00:00,28,34,814.67,Completed,Cash,Chole Bhature,C152
+O0583,R023,2023-07-20 02:00:00,40,35,418.88,Completed,Credit Card,Chicken Biryani,C199
+O0584,R083,2023-02-13 18:00:00,32,38,514.31,Completed,Cash,Chicken Wings,C059
+O0585,R066,2023-06-15 14:00:00,41,35,311.95,Completed,Credit Card,Veg Thali,C018
+O0586,R005,2023-01-12 18:00:00,26,28,558.19,Completed,Credit Card,Garlic Naan,C072
+O0587,R097,2023-06-27 12:00:00,25,46,810.38,Completed,UPI,Paneer Butter Masala,C080
+O0588,R041,2023-09-24 20:00:00,43,35,186.25,Completed,Credit Card,Chicken Wings,C194
+O0589,R010,2023-03-18 06:00:00,27,24,870.43,Completed,Cash,Margherita Pizza,C169
+O0590,R025,2023-04-29 12:00:00,39,31,285.57,Completed,Credit Card,Chole Bhature,C034
+O0591,R083,2023-02-03 00:00:00,33,48,288.9,Completed,Cash,Garlic Naan,C001
+O0592,R059,2023-07-10 08:00:00,43,51,330.06,Completed,Net Banking,Paneer Butter Masala,C053
+O0593,R079,2023-08-30 10:00:00,33,29,779.61,Completed,Net Banking,Chicken Wings,C195
+O0594,R031,2023-03-16 00:00:00,42,48,733.51,Completed,Credit Card,Chicken Shawarma,C088
+O0595,R059,2023-03-02 10:00:00,37,32,870.65,Completed,UPI,Garlic Naan,C073
+O0596,R067,2023-08-25 18:00:00,30,39,310.66,Completed,Cash,Egg Fried Rice,C173
+O0597,R021,2023-08-15 10:00:00,32,30,918.6,Completed,UPI,Veg Manchurian,C118
+O0598,R091,2023-03-20 12:00:00,45,39,287.05,Completed,UPI,Paneer Butter Masala,C036
+O0599,R043,2023-05-17 04:00:00,28,28,286.49,Completed,Cash,Hakka Noodles,C042
+O0600,R084,2023-03-10 16:00:00,43,34,507.77,Completed,UPI,Butter Chicken,C032
+O0601,R018,2023-07-27 18:00:00,41,39,435.09,Completed,Credit Card,Chicken Shawarma,C191
+O0602,R061,2023-08-27 08:00:00,30,38,795.87,Completed,Credit Card,Mutton Rogan Josh,C131
+O0603,R099,2023-09-12 08:00:00,40,28,724.24,Completed,Credit Card,Paneer Butter Masala,C182
+O0604,R072,2023-05-30 20:00:00,45,49,200.7,Completed,UPI,Hakka Noodles,C174
+O0605,R008,2023-04-29 22:00:00,45,28,243.32,Completed,Credit Card,Veg Thali,C148
+O0606,R070,2023-02-23 22:00:00,32,28,596.37,Completed,Credit Card,Egg Fried Rice,C130
+O0607,R011,2023-04-02 20:00:00,25,26,238.49,Completed,Net Banking,Chicken Wings,C194
+O0608,R067,2023-09-04 00:00:00,32,48,627.63,Completed,Credit Card,Margherita Pizza,C023
+O0609,R044,2023-04-29 22:00:00,29,29,760.92,Completed,Cash,Chicken Wings,C040
+O0610,R001,2023-07-06 18:00:00,44,33,675.94,Completed,UPI,Hakka Noodles,C099
+O0611,R100,2023-03-10 12:00:00,29,41,158.02,Completed,Cash,Paneer Butter Masala,C105
+O0612,R011,2023-03-15 18:00:00,45,40,945.62,Completed,Net Banking,Fish Curry,C101
+O0613,R014,2023-06-08 22:00:00,29,54,366.26,Completed,UPI,Chicken Shawarma,C011
+O0614,R055,2023-04-18 02:00:00,43,37,539.17,Completed,UPI,Masala Dosa,C118
+O0615,R078,2023-02-13 20:00:00,44,46,595.99,Completed,UPI,Chicken Shawarma,C170
+O0616,R046,2023-04-05 10:00:00,30,31,980.77,Completed,Net Banking,Veg Thali,C150
+O0617,R073,2023-07-11 12:00:00,27,38,412.8,Completed,Net Banking,Chicken Shawarma,C077
+O0618,R058,2023-08-15 18:00:00,28,38,709.0,Completed,UPI,Veg Manchurian,C098
+O0619,R043,2023-09-22 22:00:00,33,49,862.66,Completed,Credit Card,Garlic Naan,C028
+O0620,R049,2023-09-20 16:00:00,28,29,629.89,Completed,Net Banking,Dal Makhani,C046
+O0621,R066,2023-01-01 02:00:00,33,36,339.43,Completed,Net Banking,Samosa Chaat,C053
+O0622,R047,2023-01-29 10:00:00,44,50,386.38,Completed,UPI,Veg Thali,C143
+O0623,R082,2023-08-14 08:00:00,39,47,261.14,Completed,Net Banking,Dal Makhani,C091
+O0624,R016,2023-10-07 14:00:00,43,39,772.21,Completed,Credit Card,Garlic Naan,C104
+O0625,R018,2023-04-22 22:00:00,33,47,571.05,Completed,UPI,Mutton Rogan Josh,C158
+O0626,R041,2023-04-16 06:00:00,43,39,429.93,Completed,UPI,Butter Chicken,C165
+O0627,R003,2023-08-30 02:00:00,38,44,930.51,Completed,Cash,Masala Dosa,C033
+O0628,R024,2023-09-24 22:00:00,26,42,319.77,Completed,UPI,Dal Makhani,C183
+O0629,R094,2023-04-21 08:00:00,27,49,257.77,Completed,Net Banking,Margherita Pizza,C133
+O0630,R017,2023-01-12 22:00:00,29,42,677.48,Completed,Cash,Paneer Tikka,C193
+O0631,R003,2023-01-29 20:00:00,39,36,484.67,Completed,Net Banking,Paneer Butter Masala,C074
+O0632,R044,2023-07-28 18:00:00,26,34,472.29,Completed,Net Banking,Garlic Naan,C096
+O0633,R078,2023-01-05 18:00:00,36,32,650.8,Completed,Cash,Egg Fried Rice,C158
+O0634,R025,2023-04-10 18:00:00,35,33,667.77,Completed,UPI,Samosa Chaat,C108
+O0635,R006,2023-10-02 04:00:00,33,32,166.31,Completed,Net Banking,Chicken Shawarma,C135
+O0636,R053,2023-02-09 02:00:00,45,40,233.64,Completed,Net Banking,Tandoori Chicken,C195
+O0637,R083,2023-02-26 18:00:00,38,30,190.45,Completed,Net Banking,Hakka Noodles,C110
+O0638,R008,2023-08-31 22:00:00,37,37,178.82,Completed,UPI,Egg Fried Rice,C067
+O0639,R090,2023-04-04 22:00:00,25,35,329.63,Completed,Net Banking,Paneer Tikka,C087
+O0640,R040,2023-03-10 16:00:00,34,37,923.81,Completed,Credit Card,Egg Fried Rice,C168
+O0641,R050,2023-06-25 00:00:00,45,40,215.1,Completed,Credit Card,Butter Chicken,C145
+O0642,R007,2023-07-09 06:00:00,32,25,314.3,Completed,Net Banking,Butter Chicken,C005
+O0643,R077,2023-04-29 04:00:00,31,45,640.19,Completed,Credit Card,Pasta Alfredo,C105
+O0644,R099,2023-06-03 06:00:00,27,31,471.83,Completed,Cash,Paneer Butter Masala,C009
+O0645,R092,2023-01-31 08:00:00,43,50,715.9,Completed,Cash,Paneer Tikka,C074
+O0646,R022,2023-05-22 12:00:00,29,23,325.98,Completed,Cash,Pasta Alfredo,C152
+O0647,R046,2023-06-21 14:00:00,32,22,735.95,Completed,Net Banking,Pasta Alfredo,C117
+O0648,R010,2023-07-01 12:00:00,41,33,213.57,Completed,Cash,Samosa Chaat,C177
+O0649,R053,2023-05-20 14:00:00,31,21,450.42,Completed,Credit Card,Mutton Rogan Josh,C107
+O0650,R007,2023-02-11 20:00:00,39,34,513.19,Completed,Credit Card,Dal Makhani,C184
+O0651,R057,2023-01-28 10:00:00,35,35,672.04,Completed,Credit Card,Dal Makhani,C061
+O0652,R046,2023-07-22 14:00:00,25,44,164.92,Completed,Cash,Mutton Rogan Josh,C034
+O0653,R078,2023-06-08 00:00:00,33,43,177.32,Completed,UPI,Samosa Chaat,C030
+O0654,R080,2023-04-21 14:00:00,38,27,247.84,Completed,Cash,Chole Bhature,C192
+O0655,R097,2023-03-01 10:00:00,43,42,661.33,Completed,UPI,Paneer Butter Masala,C063
+O0656,R033,2023-04-12 04:00:00,41,36,523.72,Completed,Credit Card,Pasta Alfredo,C193
+O0657,R087,2023-03-24 06:00:00,42,51,739.23,Completed,Credit Card,Chole Bhature,C102
+O0658,R040,2023-08-03 10:00:00,29,31,530.44,Completed,UPI,Veg Manchurian,C034
+O0659,R073,2023-05-30 02:00:00,35,31,156.35,Completed,Credit Card,Egg Fried Rice,C067
+O0660,R059,2023-08-18 22:00:00,43,32,358.89,Completed,Cash,Chicken Wings,C145
+O0661,R053,2023-08-27 12:00:00,45,36,942.17,Completed,Net Banking,Garlic Naan,C136
+O0662,R024,2023-04-08 20:00:00,42,40,857.78,Completed,Cash,Garlic Naan,C180
+O0663,R004,2023-01-11 16:00:00,37,46,788.74,Completed,Credit Card,Egg Fried Rice,C122
+O0664,R059,2023-01-08 18:00:00,31,32,418.83,Completed,Credit Card,Egg Fried Rice,C190
+O0665,R034,2023-01-03 18:00:00,34,27,763.27,Completed,Credit Card,Chicken Biryani,C049
+O0666,R025,2023-08-06 22:00:00,28,35,385.1,Completed,UPI,Veg Manchurian,C069
+O0667,R050,2023-04-02 22:00:00,39,22,178.16,Completed,UPI,Garlic Naan,C080
+O0668,R009,2023-01-27 00:00:00,45,37,482.34,Completed,Credit Card,Egg Fried Rice,C054
+O0669,R046,2023-08-14 16:00:00,45,43,738.84,Completed,Net Banking,Chicken Biryani,C058
+O0670,R013,2023-04-17 20:00:00,33,33,357.08,Completed,UPI,Paneer Butter Masala,C129
+O0671,R016,2023-04-19 04:00:00,32,25,990.1,Completed,Cash,Veg Manchurian,C093
+O0672,R004,2023-07-06 22:00:00,45,40,418.5,Completed,Credit Card,Masala Dosa,C167
+O0673,R045,2023-08-12 00:00:00,33,33,680.97,Completed,UPI,Pasta Alfredo,C200
+O0674,R003,2023-04-09 02:00:00,34,37,239.5,Completed,UPI,Tandoori Chicken,C061
+O0675,R023,2023-01-17 12:00:00,27,24,225.21,Completed,Net Banking,Margherita Pizza,C012
+O0676,R052,2023-09-25 08:00:00,36,46,830.95,Completed,Credit Card,Garlic Naan,C188
+O0677,R079,2023-08-30 18:00:00,29,47,658.2,Completed,UPI,Pasta Alfredo,C158
+O0678,R089,2023-03-26 22:00:00,39,40,240.27,Completed,Net Banking,Chole Bhature,C078
+O0679,R084,2023-08-25 06:00:00,25,32,482.82,Completed,UPI,Dal Makhani,C080
+O0680,R002,2023-06-26 08:00:00,37,49,683.89,Completed,Net Banking,Tandoori Chicken,C154
+O0681,R042,2023-02-17 18:00:00,45,44,833.39,Completed,Cash,Samosa Chaat,C126
+O0682,R059,2023-03-30 14:00:00,39,31,522.61,Completed,UPI,Chole Bhature,C138
+O0683,R071,2023-07-23 18:00:00,26,49,539.74,Completed,UPI,Chicken Wings,C076
+O0684,R096,2023-01-20 02:00:00,45,24,894.5,Completed,Credit Card,Mutton Rogan Josh,C141
+O0685,R089,2023-09-26 06:00:00,34,39,649.75,Completed,Cash,Veg Manchurian,C102
+O0686,R064,2023-05-13 14:00:00,41,32,805.75,Completed,Net Banking,Tandoori Chicken,C108
+O0687,R061,2023-05-23 20:00:00,44,46,616.21,Completed,Credit Card,Hakka Noodles,C091
+O0688,R011,2023-04-06 20:00:00,38,43,738.45,Completed,Net Banking,Samosa Chaat,C032
+O0689,R007,2023-07-18 18:00:00,39,22,835.88,Completed,UPI,Mutton Rogan Josh,C001
+O0690,R069,2023-03-18 22:00:00,44,39,858.69,Completed,Net Banking,Chole Bhature,C190
+O0691,R052,2023-03-28 12:00:00,43,27,306.57,Completed,Net Banking,Mutton Rogan Josh,C033
+O0692,R034,2023-04-17 18:00:00,41,37,748.97,Completed,UPI,Pasta Alfredo,C089
+O0693,R004,2023-10-03 22:00:00,31,27,756.62,Completed,Net Banking,Garlic Naan,C025
+O0694,R083,2023-07-01 20:00:00,30,37,518.19,Completed,Credit Card,Dal Makhani,C171
+O0695,R067,2023-06-17 00:00:00,25,44,408.11,Completed,Credit Card,Chicken Wings,C024
+O0696,R013,2023-06-03 04:00:00,33,43,325.81,Completed,UPI,Pasta Alfredo,C056
+O0697,R011,2023-08-30 18:00:00,28,37,950.06,Completed,Cash,Chicken Biryani,C069
+O0698,R043,2023-02-11 22:00:00,37,45,732.88,Completed,Credit Card,Butter Chicken,C186
+O0699,R046,2023-05-25 14:00:00,33,25,934.35,Completed,UPI,Chole Bhature,C111
+O0700,R013,2023-05-08 18:00:00,31,47,693.33,Completed,Credit Card,Mutton Rogan Josh,C153
+O0701,R061,2023-02-27 20:00:00,40,38,413.27,Completed,Credit Card,Tandoori Chicken,C126
+O0702,R005,2023-06-27 16:00:00,40,35,814.91,Completed,UPI,Paneer Tikka,C010
+O0703,R020,2023-01-18 12:00:00,33,43,885.85,Completed,UPI,Pasta Alfredo,C164
+O0704,R067,2023-03-20 20:00:00,41,31,843.41,Completed,Net Banking,Mutton Rogan Josh,C105
+O0705,R081,2023-08-30 00:00:00,37,33,612.5,Completed,Cash,Pasta Alfredo,C004
+O0706,R037,2023-10-03 18:00:00,29,45,574.35,Completed,UPI,Paneer Butter Masala,C188
+O0707,R005,2023-06-12 22:00:00,44,35,846.59,Completed,Credit Card,Butter Chicken,C096
+O0708,R001,2023-05-11 22:00:00,40,43,750.6,Completed,Net Banking,Veg Manchurian,C024
+O0709,R049,2023-01-11 10:00:00,33,38,221.14,Completed,UPI,Margherita Pizza,C118
+O0710,R044,2023-03-23 08:00:00,30,48,795.29,Completed,UPI,Egg Fried Rice,C179
+O0711,R021,2023-01-28 16:00:00,25,32,845.25,Completed,UPI,Mutton Rogan Josh,C073
+O0712,R071,2023-04-16 04:00:00,31,24,579.31,Completed,Net Banking,Garlic Naan,C050
+O0713,R090,2023-02-03 14:00:00,35,42,338.81,Completed,Net Banking,Chicken Wings,C086
+O0714,R019,2023-10-09 10:00:00,33,43,534.79,Completed,Cash,Paneer Butter Masala,C119
+O0715,R021,2023-03-04 08:00:00,28,44,572.45,Completed,Cash,Paneer Tikka,C102
+O0716,R023,2023-02-13 22:00:00,25,46,851.61,Completed,UPI,Chicken Shawarma,C127
+O0717,R100,2023-05-30 08:00:00,38,47,571.29,Completed,Cash,Dal Makhani,C004
+O0718,R021,2023-01-06 04:00:00,34,37,884.99,Completed,Cash,Hakka Noodles,C066
+O0719,R082,2023-09-15 06:00:00,35,41,510.64,Completed,Net Banking,Garlic Naan,C094
+O0720,R088,2023-05-04 14:00:00,44,39,300.97,Completed,Cash,Paneer Tikka,C032
+O0721,R032,2023-06-29 08:00:00,31,36,498.38,Completed,UPI,Dal Makhani,C123
+O0722,R080,2023-05-22 06:00:00,35,47,829.42,Completed,UPI,Mutton Rogan Josh,C084
+O0723,R043,2023-02-12 12:00:00,38,41,668.13,Completed,UPI,Mutton Rogan Josh,C155
+O0724,R004,2023-06-29 22:00:00,29,44,926.22,Completed,Net Banking,Garlic Naan,C075
+O0725,R062,2023-03-26 02:00:00,45,28,752.88,Completed,UPI,Samosa Chaat,C193
+O0726,R081,2023-06-20 14:00:00,28,31,742.13,Completed,Net Banking,Fish Curry,C159
+O0727,R087,2023-04-07 02:00:00,32,31,934.91,Completed,Cash,Tandoori Chicken,C052
+O0728,R051,2023-04-02 14:00:00,36,33,761.06,Completed,UPI,Samosa Chaat,C147
+O0729,R006,2023-05-18 22:00:00,40,26,612.86,Completed,UPI,Paneer Butter Masala,C057
+O0730,R029,2023-05-28 06:00:00,39,33,886.83,Completed,Credit Card,Paneer Butter Masala,C155
+O0731,R031,2023-06-10 16:00:00,30,48,932.53,Completed,Cash,Paneer Tikka,C017
+O0732,R082,2023-08-27 00:00:00,36,45,937.54,Completed,Cash,Masala Dosa,C049
+O0733,R037,2023-01-20 22:00:00,38,36,342.38,Completed,Credit Card,Chicken Shawarma,C087
+O0734,R043,2023-02-26 00:00:00,38,26,574.73,Completed,Cash,Paneer Tikka,C067
+O0735,R022,2023-08-31 00:00:00,38,45,692.84,Completed,UPI,Veg Manchurian,C003
+O0736,R031,2023-06-28 22:00:00,36,44,192.39,Completed,Net Banking,Egg Fried Rice,C057
+O0737,R046,2023-05-02 22:00:00,43,35,501.46,Completed,UPI,Egg Fried Rice,C122
+O0738,R029,2023-03-11 02:00:00,28,39,664.0,Completed,Credit Card,Paneer Tikka,C106
+O0739,R021,2023-03-27 00:00:00,27,49,864.64,Completed,UPI,Garlic Naan,C112
+O0740,R054,2023-02-21 14:00:00,42,40,185.72,Completed,UPI,Chole Bhature,C087
+O0741,R060,2023-03-17 12:00:00,39,36,423.03,Completed,Cash,Veg Thali,C134
+O0742,R047,2023-09-30 16:00:00,29,51,418.01,Completed,Net Banking,Paneer Butter Masala,C188
+O0743,R073,2023-04-13 16:00:00,28,35,288.68,Completed,Net Banking,Chicken Shawarma,C035
+O0744,R018,2023-09-27 06:00:00,25,32,426.43,Completed,UPI,Tandoori Chicken,C127
+O0745,R050,2023-02-19 14:00:00,41,39,992.67,Completed,UPI,Pasta Alfredo,C195
+O0746,R073,2023-03-05 14:00:00,37,36,567.04,Completed,UPI,Masala Dosa,C036
+O0747,R099,2023-07-08 06:00:00,45,35,212.17,Completed,Net Banking,Chole Bhature,C020
+O0748,R002,2023-03-27 10:00:00,40,43,817.84,Completed,UPI,Chicken Wings,C164
+O0749,R021,2023-07-05 16:00:00,32,20,987.97,Completed,Credit Card,Samosa Chaat,C133
+O0750,R075,2023-01-10 06:00:00,37,48,933.33,Completed,Credit Card,Mutton Rogan Josh,C178
+O0751,R001,2023-03-03 20:00:00,45,51,668.54,Completed,Net Banking,Hakka Noodles,C149
+O0752,R088,2023-03-21 08:00:00,28,38,492.07,Completed,UPI,Veg Manchurian,C065
+O0753,R050,2023-10-08 02:00:00,38,30,847.9,Completed,Credit Card,Mutton Rogan Josh,C177
+O0754,R092,2023-09-04 08:00:00,26,31,637.23,Completed,UPI,Pasta Alfredo,C051
+O0755,R023,2023-05-23 10:00:00,34,39,301.62,Completed,Net Banking,Samosa Chaat,C189
+O0756,R020,2023-08-29 16:00:00,44,44,714.72,Completed,UPI,Chicken Biryani,C090
+O0757,R003,2023-02-23 12:00:00,30,42,554.12,Completed,Net Banking,Butter Chicken,C084
+O0758,R004,2023-03-25 00:00:00,34,35,743.94,Completed,Credit Card,Chole Bhature,C073
+O0759,R042,2023-09-16 18:00:00,33,38,325.09,Completed,Net Banking,Pasta Alfredo,C022
+O0760,R066,2023-07-11 02:00:00,41,40,396.61,Completed,Credit Card,Veg Manchurian,C106
+O0761,R001,2023-02-13 22:00:00,28,27,408.95,Completed,Cash,Paneer Tikka,C137
+O0762,R005,2023-07-18 10:00:00,42,31,396.79,Completed,Net Banking,Fish Curry,C023
+O0763,R007,2023-08-21 12:00:00,35,46,747.95,Completed,Credit Card,Tandoori Chicken,C129
+O0764,R100,2023-02-27 08:00:00,25,32,448.35,Completed,Cash,Chicken Wings,C165
+O0765,R015,2023-09-12 06:00:00,29,26,715.62,Completed,Net Banking,Egg Fried Rice,C105
+O0766,R074,2023-03-26 14:00:00,25,30,163.0,Completed,Credit Card,Masala Dosa,C060
+O0767,R079,2023-06-28 20:00:00,27,32,171.25,Completed,Net Banking,Egg Fried Rice,C065
+O0768,R019,2023-09-22 04:00:00,35,46,548.03,Completed,UPI,Mutton Rogan Josh,C042
+O0769,R100,2023-04-13 04:00:00,35,30,929.21,Completed,UPI,Chicken Wings,C035
+O0770,R020,2023-09-30 14:00:00,39,42,189.97,Completed,Cash,Chicken Shawarma,C061
+O0771,R087,2023-09-29 08:00:00,31,33,222.88,Completed,Net Banking,Dal Makhani,C048
+O0772,R049,2023-08-30 22:00:00,32,26,999.86,Completed,Cash,Chicken Biryani,C025
+O0773,R004,2023-09-11 06:00:00,36,34,414.37,Completed,Credit Card,Dal Makhani,C060
+O0774,R054,2023-01-08 04:00:00,43,47,212.85,Completed,Credit Card,Chicken Biryani,C073
+O0775,R056,2023-09-04 10:00:00,39,40,203.14,Completed,UPI,Chicken Shawarma,C066
+O0776,R073,2023-06-07 06:00:00,33,24,218.09,Completed,Credit Card,Margherita Pizza,C010
+O0777,R088,2023-09-27 14:00:00,42,30,340.36,Completed,Credit Card,Hakka Noodles,C144
+O0778,R043,2023-03-10 04:00:00,30,42,649.85,Completed,Net Banking,Chicken Wings,C026
+O0779,R092,2023-01-22 06:00:00,39,33,179.35,Completed,Cash,Fish Curry,C105
+O0780,R032,2023-05-21 14:00:00,37,44,864.12,Completed,UPI,Paneer Butter Masala,C073
+O0781,R018,2023-02-27 06:00:00,25,26,950.32,Completed,Credit Card,Chole Bhature,C158
+O0782,R047,2023-05-11 00:00:00,28,26,433.61,Completed,Cash,Hakka Noodles,C158
+O0783,R066,2023-06-22 12:00:00,25,30,855.51,Completed,UPI,Butter Chicken,C084
+O0784,R028,2023-05-13 08:00:00,28,48,667.11,Completed,Cash,Hakka Noodles,C200
+O0785,R069,2023-03-14 12:00:00,35,45,170.29,Completed,Net Banking,Dal Makhani,C027
+O0786,R052,2023-05-12 08:00:00,31,48,854.32,Completed,Net Banking,Butter Chicken,C017
+O0787,R010,2023-07-02 00:00:00,34,23,978.85,Completed,UPI,Chicken Biryani,C102
+O0788,R017,2023-06-29 14:00:00,42,37,773.44,Completed,UPI,Chole Bhature,C186
+O0789,R053,2023-06-18 08:00:00,28,39,769.05,Completed,Net Banking,Chole Bhature,C020
+O0790,R073,2023-02-05 04:00:00,41,44,493.53,Completed,Credit Card,Pasta Alfredo,C138
+O0791,R085,2023-02-13 06:00:00,34,39,877.04,Completed,Net Banking,Egg Fried Rice,C043
+O0792,R045,2023-01-30 08:00:00,27,44,172.04,Completed,Net Banking,Margherita Pizza,C170
+O0793,R013,2023-07-01 20:00:00,28,21,452.55,Completed,Credit Card,Chicken Biryani,C006
+O0794,R056,2023-01-04 22:00:00,42,46,854.49,Completed,Net Banking,Margherita Pizza,C171
+O0795,R056,2023-10-09 14:00:00,44,39,295.07,Completed,UPI,Garlic Naan,C124
+O0796,R032,2023-01-28 20:00:00,34,28,311.71,Completed,Credit Card,Paneer Butter Masala,C158
+O0797,R061,2023-01-04 14:00:00,26,47,194.81,Completed,UPI,Paneer Butter Masala,C057
+O0798,R049,2023-09-12 22:00:00,32,21,174.82,Completed,UPI,Garlic Naan,C048
+O0799,R029,2023-03-24 22:00:00,28,49,903.84,Completed,Cash,Fish Curry,C110
+O0800,R051,2023-09-12 12:00:00,30,29,804.79,Completed,UPI,Margherita Pizza,C109
+O0801,R031,2023-05-16 02:00:00,39,28,612.32,Completed,Credit Card,Paneer Tikka,C074
+O0802,R083,2023-06-03 16:00:00,30,52,868.06,Completed,Net Banking,Chicken Biryani,C153
+O0803,R062,2023-08-19 02:00:00,30,22,278.95,Completed,Net Banking,Chicken Wings,C100
+O0804,R051,2023-04-05 02:00:00,39,52,987.33,Completed,Net Banking,Egg Fried Rice,C112
+O0805,R075,2023-05-21 18:00:00,33,40,763.77,Completed,UPI,Garlic Naan,C125
+O0806,R009,2023-04-28 20:00:00,30,40,845.91,Completed,Credit Card,Margherita Pizza,C022
+O0807,R033,2023-08-14 20:00:00,39,40,369.06,Completed,Credit Card,Tandoori Chicken,C036
+O0808,R036,2023-05-16 06:00:00,43,32,166.29,Completed,Credit Card,Chicken Wings,C073
+O0809,R068,2023-03-30 02:00:00,25,39,670.49,Completed,Credit Card,Samosa Chaat,C018
+O0810,R048,2023-09-05 20:00:00,42,32,787.42,Completed,Net Banking,Samosa Chaat,C030
+O0811,R070,2023-01-27 02:00:00,37,44,938.83,Completed,Credit Card,Paneer Butter Masala,C116
+O0812,R003,2023-09-18 02:00:00,25,50,276.69,Completed,Credit Card,Pasta Alfredo,C113
+O0813,R078,2023-02-23 20:00:00,28,32,340.52,Completed,UPI,Egg Fried Rice,C184
+O0814,R079,2023-07-20 00:00:00,28,32,671.12,Completed,Net Banking,Veg Thali,C073
+O0815,R100,2023-03-24 18:00:00,34,38,842.63,Completed,Cash,Pasta Alfredo,C118
+O0816,R061,2023-09-10 20:00:00,27,38,402.44,Completed,Cash,Paneer Tikka,C162
+O0817,R031,2023-03-13 14:00:00,45,30,482.62,Completed,Credit Card,Chicken Biryani,C152
+O0818,R036,2023-01-16 10:00:00,37,47,742.14,Completed,Net Banking,Chicken Biryani,C084
+O0819,R006,2023-09-17 22:00:00,31,32,216.3,Completed,Cash,Hakka Noodles,C142
+O0820,R079,2023-01-19 06:00:00,33,45,555.07,Completed,Credit Card,Fish Curry,C061
+O0821,R042,2023-06-24 12:00:00,37,32,377.81,Completed,Cash,Garlic Naan,C065
+O0822,R051,2023-10-04 04:00:00,32,51,178.52,Completed,Cash,Chicken Shawarma,C044
+O0823,R081,2023-01-23 20:00:00,39,27,460.95,Completed,Credit Card,Chicken Biryani,C122
+O0824,R014,2023-08-25 14:00:00,45,53,403.12,Completed,Cash,Chicken Biryani,C003
+O0825,R069,2023-06-02 06:00:00,44,40,910.42,Completed,Credit Card,Butter Chicken,C112
+O0826,R007,2023-03-26 22:00:00,41,28,630.52,Completed,Credit Card,Paneer Butter Masala,C027
+O0827,R019,2023-06-03 18:00:00,42,51,348.39,Completed,Net Banking,Veg Thali,C182
+O0828,R092,2023-08-31 08:00:00,36,38,411.0,Completed,Cash,Garlic Naan,C167
+O0829,R051,2023-09-23 12:00:00,30,32,595.91,Completed,Credit Card,Margherita Pizza,C043
+O0830,R004,2023-09-17 20:00:00,38,27,990.29,Completed,Net Banking,Pasta Alfredo,C059
+O0831,R099,2023-08-14 18:00:00,45,35,382.85,Completed,Cash,Egg Fried Rice,C176
+O0832,R054,2023-02-15 20:00:00,25,41,471.16,Completed,UPI,Garlic Naan,C006
+O0833,R094,2023-07-24 16:00:00,43,37,245.22,Completed,UPI,Garlic Naan,C128
+O0834,R051,2023-08-02 22:00:00,38,32,215.44,Completed,UPI,Butter Chicken,C122
+O0835,R056,2023-06-23 22:00:00,44,30,317.56,Completed,UPI,Pasta Alfredo,C138
+O0836,R014,2023-04-09 16:00:00,32,39,702.01,Completed,Cash,Chicken Biryani,C169
+O0837,R092,2023-01-05 14:00:00,34,31,731.95,Completed,Net Banking,Pasta Alfredo,C164
+O0838,R059,2023-07-24 04:00:00,36,31,849.77,Completed,Net Banking,Hakka Noodles,C095
+O0839,R078,2023-02-20 10:00:00,41,32,852.71,Completed,UPI,Paneer Butter Masala,C090
+O0840,R060,2023-04-30 20:00:00,35,28,383.06,Completed,UPI,Chole Bhature,C130
+O0841,R021,2023-08-16 14:00:00,40,54,465.78,Completed,Cash,Chicken Biryani,C162
+O0842,R022,2023-05-03 04:00:00,45,48,953.42,Completed,UPI,Veg Thali,C150
+O0843,R044,2023-05-06 06:00:00,39,40,595.58,Completed,Credit Card,Hakka Noodles,C188
+O0844,R061,2023-04-12 10:00:00,33,30,699.18,Completed,UPI,Pasta Alfredo,C149
+O0845,R053,2023-06-21 06:00:00,36,44,746.81,Completed,UPI,Egg Fried Rice,C175
+O0846,R021,2023-08-08 00:00:00,33,31,934.41,Completed,Credit Card,Masala Dosa,C118
+O0847,R076,2023-08-23 22:00:00,30,35,498.61,Completed,Cash,Fish Curry,C200
+O0848,R037,2023-03-28 12:00:00,30,52,808.85,Completed,Net Banking,Garlic Naan,C082
+O0849,R098,2023-02-15 14:00:00,32,37,527.89,Completed,Net Banking,Dal Makhani,C166
+O0850,R065,2023-01-08 16:00:00,39,32,440.75,Completed,Cash,Tandoori Chicken,C072
+O0851,R015,2023-06-13 14:00:00,35,24,776.44,Completed,Credit Card,Hakka Noodles,C057
+O0852,R048,2023-10-03 10:00:00,45,30,671.89,Completed,UPI,Tandoori Chicken,C190
+O0853,R045,2023-09-08 12:00:00,25,48,413.39,Completed,UPI,Pasta Alfredo,C011
+O0854,R019,2023-03-10 02:00:00,36,47,649.53,Completed,Cash,Pasta Alfredo,C193
+O0855,R081,2023-07-27 16:00:00,40,43,239.54,Completed,UPI,Margherita Pizza,C137
+O0856,R046,2023-05-16 10:00:00,44,30,927.82,Completed,Credit Card,Mutton Rogan Josh,C158
+O0857,R099,2023-04-26 20:00:00,34,51,176.82,Completed,Credit Card,Chicken Shawarma,C085
+O0858,R061,2023-06-11 14:00:00,32,31,210.61,Completed,Cash,Egg Fried Rice,C024
+O0859,R081,2023-04-13 20:00:00,25,29,741.63,Completed,UPI,Chicken Shawarma,C042
+O0860,R067,2023-05-31 06:00:00,28,22,817.25,Completed,Credit Card,Veg Thali,C114
+O0861,R097,2023-02-17 12:00:00,39,26,943.74,Completed,Net Banking,Samosa Chaat,C081
+O0862,R007,2023-06-12 06:00:00,41,45,509.3,Completed,Cash,Samosa Chaat,C035
+O0863,R026,2023-10-07 10:00:00,30,35,949.73,Completed,Cash,Veg Manchurian,C160
+O0864,R033,2023-04-12 00:00:00,31,52,577.09,Completed,Credit Card,Mutton Rogan Josh,C137
+O0865,R023,2023-10-04 00:00:00,37,39,227.4,Completed,Net Banking,Paneer Butter Masala,C112
+O0866,R093,2023-08-28 06:00:00,44,29,401.23,Completed,Cash,Chicken Wings,C117
+O0867,R075,2023-04-24 06:00:00,35,43,571.17,Completed,Cash,Pasta Alfredo,C185
+O0868,R042,2023-04-30 02:00:00,42,51,899.02,Completed,Net Banking,Pasta Alfredo,C171
+O0869,R038,2023-08-06 16:00:00,29,27,200.72,Completed,Cash,Hakka Noodles,C021
+O0870,R049,2023-07-25 20:00:00,26,32,610.89,Completed,Net Banking,Paneer Butter Masala,C167
+O0871,R082,2023-05-10 22:00:00,40,26,617.43,Completed,Cash,Margherita Pizza,C033
+O0872,R006,2023-05-16 02:00:00,38,45,885.86,Completed,Cash,Chicken Shawarma,C121
+O0873,R038,2023-07-17 12:00:00,39,33,465.34,Completed,UPI,Fish Curry,C038
+O0874,R071,2023-05-17 22:00:00,39,40,552.91,Completed,Cash,Margherita Pizza,C018
+O0875,R056,2023-08-26 08:00:00,36,38,714.88,Completed,Net Banking,Egg Fried Rice,C110
+O0876,R005,2023-06-21 04:00:00,25,40,342.53,Completed,UPI,Paneer Butter Masala,C072
+O0877,R088,2023-04-12 16:00:00,31,29,690.59,Completed,Credit Card,Paneer Tikka,C120
+O0878,R053,2023-08-19 06:00:00,43,34,532.06,Completed,Credit Card,Hakka Noodles,C013
+O0879,R035,2023-10-06 02:00:00,31,42,354.35,Completed,Cash,Egg Fried Rice,C140
+O0880,R049,2023-09-16 10:00:00,27,47,362.49,Completed,Cash,Chicken Biryani,C085
+O0881,R094,2023-07-12 18:00:00,40,46,653.86,Completed,UPI,Mutton Rogan Josh,C130
+O0882,R027,2023-03-22 06:00:00,29,32,726.31,Completed,Net Banking,Tandoori Chicken,C107
+O0883,R045,2023-03-06 10:00:00,27,37,391.0,Completed,Cash,Mutton Rogan Josh,C011
+O0884,R018,2023-05-28 04:00:00,41,38,478.17,Completed,Net Banking,Chicken Wings,C131
+O0885,R017,2023-03-15 20:00:00,42,53,971.0,Completed,UPI,Veg Thali,C073
+O0886,R015,2023-04-01 12:00:00,37,40,443.72,Completed,Credit Card,Veg Manchurian,C197
+O0887,R079,2023-06-25 12:00:00,44,25,652.79,Completed,UPI,Garlic Naan,C183
+O0888,R046,2023-02-27 02:00:00,33,34,538.41,Completed,Cash,Mutton Rogan Josh,C146
+O0889,R022,2023-06-23 22:00:00,31,41,502.54,Completed,UPI,Mutton Rogan Josh,C170
+O0890,R004,2023-02-17 20:00:00,27,45,346.38,Completed,Net Banking,Butter Chicken,C191
+O0891,R056,2023-10-03 16:00:00,38,46,467.61,Completed,Cash,Margherita Pizza,C071
+O0892,R074,2023-07-23 20:00:00,25,29,855.33,Completed,Cash,Masala Dosa,C146
+O0893,R051,2023-06-26 14:00:00,42,27,535.86,Completed,Credit Card,Dal Makhani,C185
+O0894,R060,2023-09-16 04:00:00,40,41,997.1,Completed,Cash,Chicken Shawarma,C189
+O0895,R010,2023-07-01 10:00:00,35,43,960.55,Completed,Credit Card,Butter Chicken,C175
+O0896,R083,2023-09-23 10:00:00,25,37,370.59,Completed,Cash,Margherita Pizza,C003
+O0897,R091,2023-06-22 18:00:00,31,42,260.42,Completed,Cash,Paneer Tikka,C145
+O0898,R091,2023-10-10 00:00:00,44,27,750.4,Completed,Cash,Veg Manchurian,C036
+O0899,R088,2023-08-10 00:00:00,34,32,180.72,Completed,UPI,Mutton Rogan Josh,C065
+O0900,R010,2023-06-12 10:00:00,38,30,316.09,Completed,UPI,Mutton Rogan Josh,C172
+O0901,R100,2023-04-27 14:00:00,39,32,398.53,Completed,Cash,Dal Makhani,C037
+O0902,R055,2023-03-30 08:00:00,41,37,352.15,Completed,Credit Card,Hakka Noodles,C187
+O0903,R070,2023-05-28 22:00:00,34,38,539.94,Completed,UPI,Hakka Noodles,C074
+O0904,R093,2023-04-13 22:00:00,27,30,959.51,Completed,Cash,Dal Makhani,C115
+O0905,R071,2023-06-05 16:00:00,26,31,564.0,Completed,UPI,Dal Makhani,C113
+O0906,R018,2023-08-11 00:00:00,27,42,422.82,Completed,Cash,Dal Makhani,C154
+O0907,R022,2023-06-29 18:00:00,36,37,303.17,Completed,Cash,Mutton Rogan Josh,C128
+O0908,R020,2023-01-18 18:00:00,37,25,577.8,Completed,UPI,Masala Dosa,C077
+O0909,R027,2023-09-27 10:00:00,45,43,152.87,Completed,Net Banking,Chole Bhature,C004
+O0910,R022,2023-09-07 00:00:00,38,36,337.75,Completed,Cash,Garlic Naan,C127
+O0911,R030,2023-03-08 06:00:00,37,39,607.41,Completed,Net Banking,Butter Chicken,C032
+O0912,R004,2023-03-29 16:00:00,45,34,885.96,Completed,Cash,Garlic Naan,C034
+O0913,R068,2023-06-06 14:00:00,45,39,467.07,Completed,Cash,Veg Manchurian,C045
+O0914,R018,2023-08-24 22:00:00,32,31,432.79,Completed,Net Banking,Tandoori Chicken,C030
+O0915,R064,2023-01-24 10:00:00,34,50,413.48,Completed,Net Banking,Dal Makhani,C013
+O0916,R046,2023-01-07 04:00:00,40,46,884.07,Completed,Cash,Paneer Butter Masala,C064
+O0917,R080,2023-03-10 16:00:00,37,29,586.91,Completed,UPI,Fish Curry,C106
+O0918,R095,2023-07-23 20:00:00,42,34,914.1,Completed,Credit Card,Veg Thali,C010
+O0919,R037,2023-02-05 04:00:00,25,37,722.95,Completed,Cash,Chicken Shawarma,C051
+O0920,R092,2023-03-29 12:00:00,45,39,368.13,Completed,Credit Card,Butter Chicken,C098
+O0921,R043,2023-09-28 22:00:00,38,33,479.27,Completed,Cash,Samosa Chaat,C183
+O0922,R088,2023-01-01 08:00:00,45,36,221.61,Completed,Net Banking,Chicken Biryani,C051
+O0923,R016,2023-10-09 18:00:00,34,49,198.99,Completed,UPI,Fish Curry,C020
+O0924,R053,2023-03-15 22:00:00,40,48,939.88,Completed,Net Banking,Paneer Butter Masala,C129
+O0925,R099,2023-03-05 02:00:00,29,44,647.84,Completed,Credit Card,Paneer Butter Masala,C055
+O0926,R034,2023-07-30 22:00:00,37,45,848.34,Completed,Cash,Paneer Butter Masala,C074
+O0927,R021,2023-03-01 06:00:00,38,38,343.61,Completed,UPI,Pasta Alfredo,C137
+O0928,R044,2023-08-14 16:00:00,37,22,626.33,Completed,UPI,Paneer Tikka,C132
+O0929,R081,2023-05-04 00:00:00,43,55,608.44,Completed,Credit Card,Chicken Wings,C156
+O0930,R065,2023-07-28 00:00:00,44,46,258.39,Completed,Cash,Margherita Pizza,C140
+O0931,R043,2023-10-05 02:00:00,34,42,841.06,Completed,Cash,Chicken Wings,C054
+O0932,R069,2023-04-02 08:00:00,40,35,949.35,Completed,Credit Card,Chicken Biryani,C158
+O0933,R089,2023-01-04 00:00:00,42,31,933.38,Completed,Cash,Chicken Wings,C189
+O0934,R019,2023-08-19 04:00:00,36,41,296.55,Completed,Credit Card,Veg Manchurian,C104
+O0935,R049,2023-08-13 02:00:00,34,46,646.48,Completed,UPI,Tandoori Chicken,C175
+O0936,R095,2023-01-06 14:00:00,38,42,948.77,Completed,Cash,Veg Thali,C037
+O0937,R096,2023-01-08 00:00:00,43,28,991.86,Completed,Net Banking,Paneer Tikka,C189
+O0938,R072,2023-07-27 08:00:00,45,40,572.33,Completed,Credit Card,Garlic Naan,C022
+O0939,R040,2023-02-27 02:00:00,30,29,903.13,Completed,UPI,Garlic Naan,C167
+O0940,R031,2023-04-16 22:00:00,36,49,882.44,Completed,Net Banking,Mutton Rogan Josh,C031
+O0941,R049,2023-10-08 14:00:00,26,35,896.62,Completed,UPI,Dal Makhani,C157
+O0942,R045,2023-03-22 14:00:00,38,37,726.85,Completed,Cash,Masala Dosa,C111
+O0943,R050,2023-05-15 02:00:00,39,25,946.81,Completed,Credit Card,Egg Fried Rice,C149
+O0944,R061,2023-10-08 22:00:00,39,33,728.74,Completed,Credit Card,Chole Bhature,C061
+O0945,R066,2023-06-20 14:00:00,34,29,251.84,Completed,Cash,Dal Makhani,C080
+O0946,R040,2023-09-10 00:00:00,27,39,328.61,Completed,Cash,Veg Manchurian,C145
+O0947,R053,2023-05-04 22:00:00,32,24,337.53,Completed,Cash,Paneer Butter Masala,C003
+O0948,R053,2023-05-02 00:00:00,35,30,281.71,Completed,Credit Card,Paneer Tikka,C026
+O0949,R013,2023-01-30 22:00:00,32,48,588.5,Completed,Credit Card,Veg Thali,C118
+O0950,R088,2023-07-18 16:00:00,37,55,410.15,Completed,Net Banking,Tandoori Chicken,C174
+O0951,R020,2023-05-28 10:00:00,25,48,400.77,Completed,UPI,Egg Fried Rice,C149
+O0952,R019,2023-09-24 22:00:00,44,42,441.71,Completed,Net Banking,Fish Curry,C127
+O0953,R001,2023-02-09 08:00:00,35,36,264.77,Completed,Net Banking,Paneer Butter Masala,C091
+O0954,R075,2023-08-27 18:00:00,29,39,556.49,Completed,Cash,Paneer Butter Masala,C158
+O0955,R077,2023-01-09 10:00:00,30,47,905.07,Completed,UPI,Mutton Rogan Josh,C106
+O0956,R082,2023-09-20 04:00:00,40,39,585.23,Completed,Net Banking,Chicken Wings,C015
+O0957,R091,2023-02-28 18:00:00,27,27,798.37,Completed,Credit Card,Butter Chicken,C012
+O0958,R067,2023-01-05 20:00:00,28,32,480.79,Completed,UPI,Tandoori Chicken,C049
+O0959,R014,2023-07-22 16:00:00,30,27,992.63,Completed,UPI,Garlic Naan,C130
+O0960,R090,2023-07-01 10:00:00,44,32,445.98,Completed,Net Banking,Veg Thali,C031
+O0961,R100,2023-04-04 00:00:00,26,50,410.91,Completed,Credit Card,Chicken Shawarma,C137
+O0962,R083,2023-05-01 10:00:00,32,32,726.73,Completed,Credit Card,Veg Manchurian,C012
+O0963,R090,2023-09-10 00:00:00,45,43,744.56,Completed,Cash,Egg Fried Rice,C039
+O0964,R027,2023-03-13 04:00:00,30,48,470.27,Completed,Credit Card,Tandoori Chicken,C093
+O0965,R077,2023-05-12 00:00:00,25,31,497.58,Completed,Cash,Egg Fried Rice,C087
+O0966,R083,2023-03-09 04:00:00,45,33,329.34,Completed,UPI,Chicken Wings,C050
+O0967,R078,2023-04-19 22:00:00,41,23,672.83,Completed,Net Banking,Pasta Alfredo,C008
+O0968,R066,2023-03-04 22:00:00,38,40,367.2,Completed,Credit Card,Paneer Tikka,C181
+O0969,R015,2023-09-29 12:00:00,38,44,593.77,Completed,Credit Card,Egg Fried Rice,C054
+O0970,R035,2023-03-03 00:00:00,30,43,192.68,Completed,UPI,Tandoori Chicken,C070
+O0971,R089,2023-06-19 08:00:00,34,32,559.37,Completed,Credit Card,Paneer Tikka,C038
+O0972,R094,2023-08-13 14:00:00,37,45,885.25,Completed,UPI,Garlic Naan,C027
+O0973,R079,2023-02-21 14:00:00,39,35,500.65,Completed,UPI,Dal Makhani,C039
+O0974,R022,2023-07-28 18:00:00,34,43,657.78,Completed,UPI,Butter Chicken,C091
+O0975,R049,2023-07-21 20:00:00,42,40,298.04,Completed,Cash,Samosa Chaat,C031
+O0976,R011,2023-06-22 14:00:00,26,35,162.99,Completed,Credit Card,Dal Makhani,C008
+O0977,R005,2023-05-20 02:00:00,30,29,364.22,Completed,UPI,Mutton Rogan Josh,C003
+O0978,R002,2023-07-20 06:00:00,40,35,299.56,Completed,Cash,Samosa Chaat,C165
+O0979,R015,2023-08-03 04:00:00,30,30,845.42,Completed,UPI,Egg Fried Rice,C154
+O0980,R047,2023-03-19 08:00:00,28,36,381.85,Completed,UPI,Veg Manchurian,C021
+O0981,R093,2023-01-01 22:00:00,28,41,971.35,Completed,Cash,Masala Dosa,C071
+O0982,R062,2023-01-19 10:00:00,40,34,752.19,Completed,Credit Card,Chicken Biryani,C189
+O0983,R041,2023-05-29 20:00:00,34,28,870.22,Completed,UPI,Paneer Butter Masala,C070
+O0984,R014,2023-07-26 06:00:00,34,40,237.22,Completed,Net Banking,Mutton Rogan Josh,C112
+O0985,R087,2023-01-11 16:00:00,34,41,495.85,Completed,UPI,Chicken Shawarma,C147
+O0986,R058,2023-08-09 14:00:00,37,33,431.11,Completed,Credit Card,Butter Chicken,C123
+O0987,R048,2023-08-10 00:00:00,26,41,324.76,Completed,Cash,Chicken Shawarma,C081
+O0988,R075,2023-08-10 06:00:00,43,39,933.0,Completed,Credit Card,Chicken Wings,C037
+O0989,R090,2023-02-16 06:00:00,33,33,815.87,Completed,Cash,Chicken Biryani,C096
+O0990,R033,2023-06-21 12:00:00,35,28,289.58,Completed,UPI,Chicken Shawarma,C027
+O0991,R086,2023-01-30 02:00:00,39,45,662.22,Completed,UPI,Tandoori Chicken,C158
+O0992,R063,2023-05-24 02:00:00,27,37,849.88,Completed,Credit Card,Butter Chicken,C132
+O0993,R100,2023-04-16 22:00:00,26,34,477.04,Completed,Net Banking,Paneer Butter Masala,C055
+O0994,R030,2023-04-24 04:00:00,45,44,850.32,Completed,Cash,Fish Curry,C054
+O0995,R021,2023-08-05 00:00:00,34,32,604.66,Completed,UPI,Egg Fried Rice,C142
+O0996,R072,2023-08-02 18:00:00,32,35,776.38,Completed,Net Banking,Pasta Alfredo,C163
+O0997,R071,2023-10-10 00:00:00,39,39,840.76,Completed,UPI,Paneer Tikka,C048
+O0998,R010,2023-07-31 06:00:00,45,36,232.9,Completed,Cash,Garlic Naan,C033
+O0999,R100,2023-03-06 12:00:00,34,46,811.29,Completed,UPI,Fish Curry,C147
+O1000,R066,2023-09-01 20:00:00,42,47,534.73,Completed,Net Banking,Tandoori Chicken,C174

@@ -1,0 +1,101 @@
+Restaurant_ID,Name,Location,Cuisine_Types,Avg_Cost_for_Two,Ratings,Reviews_Count,Operational_Hours
+R001,Brew Room,Mumbai,Continental,532,4.3,55,22:00-06:00
+R002,Domino's Pizza,Chennai,American,939,4.1,483,11:00-22:30
+R003,KFC,Chennai,Mexican,458,3.8,319,22:00-06:00
+R004,Brew Room,Bangalore,Thai,280,3.0,84,09:00-23:00
+R005,Mainland China,Delhi,American,560,4.9,401,11:00-22:30
+R006,Sagar Ratna,Hyderabad,Japanese,272,4.8,493,09:00-23:00
+R007,Le Cirque,Mumbai,American,324,3.9,91,09:00-23:00
+R008,Yauatcha,Pune,Mexican,567,3.7,401,10:00-22:30
+R009,Imly,Delhi,"Indian, Chinese",908,4.9,429,22:00-06:00
+R010,Al Jawahar,Kolkata,"Indian, Chinese",230,3.2,392,09:00-23:00
+R011,Sly Granny,Delhi,"Italian, Indian",553,3.4,252,11:00-22:00
+R012,Daryaganj,Mumbai,Thai,556,3.2,53,10:00-22:30
+R013,Sigree Global Grill,Delhi,Thai,382,3.2,234,10:00-22:30
+R014,Al Jawahar,Chennai,Fast Food,210,4.2,71,10:00-23:00
+R015,Kylin,Chennai,Continental,436,3.3,109,10:00-23:00
+R016,The Great Kebab Factory,Bangalore,Japanese,574,4.4,367,10:00-23:00
+R017,Indian Accent,Kolkata,Thai,272,4.9,51,11:00-22:00
+R018,Mainland Dhaba,Pune,Thai,810,3.4,188,10:00-22:30
+R019,Wow! China,Delhi,American,346,3.8,497,10:00-23:00
+R020,Chaayos,Mumbai,American,412,3.3,377,10:00-22:30
+R021,Smoke BBQ,Kolkata,American,203,4.9,408,22:00-06:00
+R022,Byblos,Chennai,"Indian, Chinese",409,3.7,199,10:00-23:00
+R023,ITC Grand Chola,Delhi,"Italian, Indian",874,4.0,422,11:00-22:00
+R024,Ohri's,Kolkata,"Italian, Indian",889,3.7,166,10:00-23:00
+R025,Biryani By Kilo,Chennai,Mexican,949,4.3,122,00:00-23:59
+R026,Anjappar Chettinad,Hyderabad,Thai,326,3.2,434,09:00-23:00
+R027,Rajdhani Thali,Hyderabad,Fast Food,965,4.5,343,22:00-06:00
+R028,The Fatty Bao,Chennai,"Indian, Chinese",207,3.6,197,11:00-22:00
+R029,Mahesh Lunch Home,Kolkata,"Indian, Chinese",500,4.7,147,11:00-22:30
+R030,Byblos,Chennai,Japanese,577,3.9,103,09:00-23:00
+R031,Biryani By Kilo,Hyderabad,American,906,3.9,272,11:00-22:30
+R032,Belgian Waffle,Bangalore,"Italian, Indian",225,3.4,285,11:00-22:00
+R033,Monkey Bar,Pune,Japanese,819,3.2,416,09:00-23:00
+R034,Domino's Pizza,Chennai,Continental,438,5.0,219,11:00-22:00
+R035,Biryani By Kilo,Chennai,"Italian, Indian",345,3.6,246,10:00-22:30
+R036,Haldiram's,Hyderabad,Fast Food,391,4.2,136,11:00-22:30
+R037,Wow Momo,Hyderabad,American,664,3.8,219,10:00-23:00
+R038,Fava,Pune,"Indian, Chinese",315,4.5,265,11:00-22:30
+R039,Choko la,Delhi,Japanese,688,3.2,381,10:00-23:00
+R040,Indigo,Kolkata,American,552,4.0,401,00:00-23:59
+R041,Mahesh Lunch Home,Kolkata,Japanese,924,4.9,272,10:00-22:30
+R042,Ohri's,Delhi,"Indian, Chinese",464,4.1,125,10:00-22:30
+R043,Punjab Grill,Mumbai,Continental,333,3.8,279,11:00-22:30
+R044,Mezbaan,Bangalore,Japanese,228,4.3,412,09:00-23:00
+R045,The Finch,Hyderabad,"Italian, Indian",413,3.0,125,10:00-22:30
+R046,Faasos,Hyderabad,"Indian, Chinese",570,3.5,318,10:00-22:30
+R047,Ohri's,Bangalore,"Indian, Chinese",543,4.3,211,10:00-23:00
+R048,Flavors,Pune,"Italian, Indian",684,3.0,116,11:00-22:30
+R049,ITC Grand Chola,Bangalore,Fast Food,499,3.8,156,10:00-23:00
+R050,Dindigul Thalappakatti,Mumbai,Continental,503,4.8,145,11:00-22:00
+R051,Zitomer,Kolkata,Fast Food,766,4.4,277,10:00-22:30
+R052,Dunkin' Donuts,Delhi,Mexican,851,3.9,228,10:00-23:00
+R053,Smoke House Deli,Pune,American,534,4.5,454,11:00-22:00
+R054,Zitomer,Bangalore,Japanese,388,3.7,249,00:00-23:59
+R055,Faasos,Kolkata,Continental,807,4.7,268,11:00-22:30
+R056,McDonald's,Pune,"Indian, Chinese",282,4.3,463,10:00-22:30
+R057,Zitomer,Delhi,Japanese,305,3.4,301,11:00-22:00
+R058,Domino's Pizza,Pune,Fast Food,746,3.2,249,00:00-23:59
+R059,Zitomer,Chennai,Continental,794,3.1,423,11:00-22:00
+R060,Karim's,Kolkata,Thai,515,3.5,162,10:00-22:30
+R061,Malaka Spice,Bangalore,"Italian, Indian",360,4.1,457,22:00-06:00
+R062,Night Owl Biryani,Hyderabad,American,585,3.2,150,22:00-06:00
+R063,Cafe Coffee Day,Hyderabad,Thai,350,4.7,274,22:00-06:00
+R064,The Burger Club,Pune,Continental,328,4.8,154,10:00-22:30
+R065,Zitomer,Chennai,Mexican,428,4.5,350,10:00-22:30
+R066,A Reverie,Mumbai,"Indian, Chinese",523,3.1,413,11:00-22:30
+R067,Night Owl Biryani,Pune,American,720,4.7,75,00:00-23:59
+R068,Mainland China,Mumbai,Japanese,448,3.6,248,09:00-23:00
+R069,Al Jawahar,Kolkata,Fast Food,442,3.3,67,10:00-22:30
+R070,Social,Pune,Mexican,972,4.0,169,09:00-23:00
+R071,Byblos,Mumbai,Japanese,388,3.4,374,10:00-22:30
+R072,China Garden,Mumbai,Fast Food,498,3.2,93,00:00-23:59
+R073,Faasos,Delhi,Continental,581,4.9,495,22:00-06:00
+R074,ITC Grand Chola,Delhi,"Indian, Chinese",629,4.1,145,11:00-22:00
+R075,Kylin,Mumbai,"Indian, Chinese",879,4.5,236,10:00-23:00
+R076,The Great Kebab Factory,Bangalore,Japanese,247,4.8,79,10:00-22:30
+R077,Olive Bistro,Mumbai,Thai,335,3.6,430,11:00-22:30
+R078,KFC,Pune,"Indian, Chinese",815,3.9,376,10:00-23:00
+R079,Wasabi by Morimoto,Pune,Mexican,221,4.1,396,10:00-23:00
+R080,Smoke House Deli,Chennai,Mexican,603,3.3,138,09:00-23:00
+R081,Big Chill,Bangalore,Continental,279,3.2,169,09:00-23:00
+R082,Olive Bistro,Pune,American,919,3.2,362,22:00-06:00
+R083,Smoke House Deli,Delhi,Thai,274,3.8,202,09:00-23:00
+R084,Le Cirque,Pune,Continental,335,3.9,363,10:00-23:00
+R085,Mahesh Lunch Home,Delhi,"Italian, Indian",630,4.1,94,00:00-23:59
+R086,Barbeque Central,Pune,American,506,3.6,410,09:00-23:00
+R087,Sagar Ratna,Hyderabad,American,763,4.3,494,09:00-23:00
+R088,Saravana Bhavan,Chennai,Continental,626,4.5,312,09:00-23:00
+R089,Burger King,Bangalore,Continental,958,3.4,434,09:00-23:00
+R090,Olive Bistro,Kolkata,American,345,4.0,195,10:00-23:00
+R091,Wow Momo,Chennai,Continental,805,4.0,444,10:00-23:00
+R092,Indigo,Kolkata,Continental,632,4.0,499,10:00-23:00
+R093,Pizza Hut,Kolkata,American,505,4.9,230,11:00-22:00
+R094,Mahesh Lunch Home,Mumbai,"Italian, Indian",852,3.9,260,10:00-23:00
+R095,Le Cirque,Kolkata,"Indian, Chinese",563,3.3,284,00:00-23:59
+R096,Lavaash by Saby,Mumbai,Japanese,286,4.0,77,00:00-23:59
+R097,Mamagoto,Hyderabad,American,454,4.8,373,11:00-22:00
+R098,Chili's,Pune,American,655,3.4,406,09:00-23:00
+R099,Rajdhani Thali,Pune,"Indian, Chinese",847,3.7,314,11:00-22:00
+R100,Barbeque Nation,Kolkata,Japanese,578,3.8,390,09:00-23:00
